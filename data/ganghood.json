@@ -1,0 +1,109 @@
+[
+	{
+        "title": "East Side Ballas (ESB)",
+        "notes": "Street Gang ",
+        "wiki_link": "https://youtu.be/g4d3gUZa1xw?si=y4s-aYwLmmJb7cwK",
+        "order": 0,
+        "strokecolor": "A020F0",
+        "fillcolor": "A020F0",
+        "latlngarray": [
+			{"lat": -75.419, "lng": -12.642},
+			{"lat": -75.325, "lng": -12.346},
+			{"lat": -75.430, "lng": -11.631},
+			{"lat": -75.568, "lng": -10.720},
+			{"lat": -75.650, "lng": -10.522},
+			{"lat": -75.758, "lng": -10.687},
+			{"lat": -75.874, "lng": -11.203},
+			{"lat": -75.965, "lng": -11.291},
+			{"lat": -76.031, "lng": -11.664},
+			{"lat": -76.176, "lng": -12.422},
+			{"lat": -75.758, "lng": -13.993}
+		]
+    },
+	{
+		"title": "Yakuza",
+		"notes": "Japanese Gang came to Los Santos to Rule",
+		"wiki_link": "https://www.youtube.com/watch?v=g4d3gUZa1xw",
+		"order": 0,
+		"strokecolor": "FFFFFF",
+		"fillcolor": "FFFFFF",
+		"latlngarray": [
+			{"lat": -62.198, "lng": 22.049},
+			{"lat": -62.872, "lng": 25.410},
+			{"lat": -61.608, "lng": 26.476},
+			{"lat": -60.786, "lng": 22.377},
+			{"lat": -61.074, "lng": 22.190},
+			{"lat": -61.365, "lng": 22.003},
+			{"lat": -61.711, "lng": 21.992},
+			{"lat": -61.985, "lng": 21.948}
+		]
+	},
+	{
+		"title": "Son Of Leagcy (SOL) ",
+		"notes": "Oldest Gang of the City",
+		"wiki_link": "https://www.youtube.com/watch?v=g4d3gUZa1xw",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": 77.146, "lng": -19.988},
+			{"lat": 77.097, "lng": -19.681},
+			{"lat": 76.752, "lng": -18.209},
+			{"lat": 76.697, "lng": -17.935},
+			{"lat": 77.823, "lng": -12.772},
+			{"lat": 77.874, "lng": -12.465},
+			{"lat": 78.105, "lng": -13.574},
+			{"lat": 78.148, "lng": -13.926},
+			{"lat": 78.143, "lng": -14.288},
+			{"lat": 78.125, "lng": -14.728},
+			{"lat": 78.096, "lng": -15.003},
+			{"lat": 77.973, "lng": -16.046},
+			{"lat": 77.728, "lng": -17.376},
+			{"lat": 77.462, "lng": -18.837}
+		]
+	},
+	{
+		"title": "Tokyo (TKY) ",
+		"notes": "We are here to Rule the Fxcking Los Santos City",
+		"wiki_link": "https://www.youtube.com/watch?v=g4d3gUZa1xw",
+		"order": 0,
+		"strokecolor": "008080",
+		"fillcolor": "008080",
+		"latlngarray": [
+			{"lat": -46.944, "lng": -12.890},
+			{"lat": -46.341, "lng": -12.505},
+			{"lat": -46.021, "lng": -12.197},
+			{"lat": -45.769, "lng": -11.791},
+			{"lat": -45.191, "lng": -10.088},
+			{"lat": -44.951, "lng": -8.693},
+			{"lat": -44.811, "lng": -8.089},
+			{"lat": -45.114, "lng": -7.968},
+			{"lat": -45.661, "lng": -7.572},
+			{"lat": -45.792, "lng": -7.484},
+			{"lat": -46.029, "lng": -7.407},
+			{"lat": -46.500, "lng": -7.616},
+			{"lat": -46.097, "lng": -9.275},
+			{"lat": -46.052, "lng": -10.253},
+			{"lat": -46.234, "lng": -11.264},
+			{"lat": -46.538, "lng": -12.066}
+		]
+	},
+	{
+		"title": "Crips",
+		"notes": "East Side Crips",
+		"wiki_link": "https://youtu.be/g4d3gUZa1xw?si=y4s-aYwLmmJb7cwK",
+		"order": 0,
+		"strokecolor": "0000FF",
+		"fillcolor": "0000FF",
+		"latlngarray": [
+			{"lat": -74.128, "lng": 18.452},
+			{"lat": -74.885, "lng": 19.441},
+			{"lat": -74.490, "lng": 23.374},
+			{"lat": -74.313, "lng": 25.659},
+			{"lat": -73.843, "lng": 24.973},
+			{"lat": -73.321, "lng": 23.721},
+			{"lat": -73.757, "lng": 21.348}
+		]
+	}
+]
+
