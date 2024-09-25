@@ -160,7 +160,7 @@ $(function() {
 			name: 'Others',
 			categories: new CategoriesCollection([
 				new CategoryModel({
-					name: 'Gangs Hood',
+					name: 'Gang Hood',
 					icon: 'General/wall-breach.png',
 					enabled: true,
 					url: 'data/ganghood.json',
