@@ -163,7 +163,7 @@ $(function() {
 					name: 'Gangs Hood',
 					icon: 'General/wall-breach.png',
 					enabled: true,
-					url: 'data/gangshood.json',
+					url: 'data/ganghood.json',
 				}),
 				new CategoryModel({
 					name: 'Illegal Turf',
