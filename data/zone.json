@@ -37,10 +37,10 @@
 	},
     {
 		"title": "Cypress Flats",
-		"notes": "Gang: XXX",
+		"notes": "Gang: Son Of Legacy (SOL)",
 		"order": 0,
-		"strokecolor": "F88379",
-		"fillcolor": "F88379",
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
 		"latlngarray": [
 			{"lat": -73.949, "lng": 3.019},
 			{"lat": -73.949, "lng": 11.931},
@@ -54,10 +54,10 @@
 	},
     {
 		"title": "El Burro Heights",
-		"notes": "Gang: XXX",
+		"notes": "Gang: Crips",
 		"order": 0,
-		"strokecolor": "F88379",
-		"fillcolor": "F88379",
+		"strokecolor": "0000FF",
+		"fillcolor": "0000FF",
 		"latlngarray": [
 			{"lat": -71.216, "lng": 17.418},
 			{"lat": -71.216, "lng": 28.121},
@@ -100,10 +100,10 @@
 	},
     {
 		"title": "Davis",
-		"notes": "Gang: XXX",
+		"notes": "Gang: Ballas",
 		"order": 0,
-		"strokecolor": "F88379",
-		"fillcolor": "F88379",
+		"strokecolor": "800080",
+		"fillcolor": "800080",
 		"latlngarray": [
 			{"lat": -71.551, "lng": -12.272},
 			{"lat": -71.551, "lng": -4.542},
@@ -189,10 +189,10 @@
 	},
     {
 		"title": "Mirror Park",
-		"notes": "Gang: XXX",
+		"notes": "Gang: Yakuza",
 		"order": 0,
-		"strokecolor": "F88379",
-		"fillcolor": "F88379",
+		"strokecolor": "FFFFFF",
+		"fillcolor": "FFFFFF",
 		"latlngarray": [
 			{"lat": -57.669, "lng": 10.272},
 			{"lat": -57.669, "lng": 25.338},
@@ -234,10 +234,10 @@
 	},
     {
 		"title": "West Vinewood",
-		"notes": "Gang: XXX",
+		"notes": "Gang: Tokyo",
 		"order": 0,
-		"strokecolor": "F88379",
-		"fillcolor": "F88379",
+		"strokecolor": "008080",
+		"fillcolor": "008080",
 		"latlngarray": [
 			{"lat": -44.544, "lng": -36.553},
 			{"lat": -44.544, "lng": -13.503},
@@ -278,10 +278,10 @@
 	},
     {
 		"title": "Vespucci Canals",
-		"notes": "Gang: XXX",
+		"notes": "Gang: Crips",
 		"order": 0,
-		"strokecolor": "F88379",
-		"fillcolor": "F88379",
+		"strokecolor": "0000FF",
+		"fillcolor": "0000FF",
 		"latlngarray": [
 			{"lat": -63.832, "lng": -48.911},
 			{"lat": -63.832, "lng": -41.994},
@@ -307,10 +307,10 @@
 	},
     {
 		"title": "Vespucci Beach",
-		"notes": "Gang: XXX",
+		"notes": "Gang: Crips",
 		"order": 0,
-		"strokecolor": "F88379",
-		"fillcolor": "F88379",
+		"strokecolor": "0000FF",
+		"fillcolor": "0000FF",
 		"latlngarray": [
 			{"lat": -66.732, "lng": -55.611},
 			{"lat": -66.732, "lng": -53.182},
