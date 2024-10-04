@@ -548,10 +548,10 @@
 	},
     {
 		"title": "Paleto Bay",
-		"notes": "Gang: XXX",
+		"notes": "Gang: Yakuza",
 		"order": 0,
-		"strokecolor": "F88379",
-		"fillcolor": "F88379",
+		"strokecolor": "FFFFFF",
+		"fillcolor": "FFFFFF",
 		"latlngarray": [
 			{"lat": 80.844, "lng": -16.059},
 			{"lat": 80.844, "lng": -9.234},
