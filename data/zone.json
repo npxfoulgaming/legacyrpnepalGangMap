@@ -236,8 +236,8 @@
 		"title": "West Vinewood",
 		"notes": "Gang: Ballas",
 		"order": 0,
-		"strokecolor": "008080",
-		"fillcolor": "008080",
+		"strokecolor": "db00db",
+		"fillcolor": "db00db",
 		"latlngarray": [
 			{"lat": -44.544, "lng": -36.553},
 			{"lat": -44.544, "lng": -13.503},
