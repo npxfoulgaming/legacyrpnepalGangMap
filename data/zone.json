@@ -249,10 +249,10 @@
 	},
     {
 		"title": "Del Perro",
-		"notes": "Gang: XXX",
+		"notes": "Gang: Crips",
 		"order": 0,
-		"strokecolor": "F88379",
-		"fillcolor": "F88379",
+		"strokecolor": "0000FF",
+		"fillcolor": "0000FF",
 		"latlngarray": [
 			{"lat": -59.524, "lng": -69.248},
 			{"lat": -59.524, "lng": -52.526},
