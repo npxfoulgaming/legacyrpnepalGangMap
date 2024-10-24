@@ -4,8 +4,8 @@
         "notes": "Street Gang ",
         "wiki_link": "https://youtu.be/g4d3gUZa1xw?si=y4s-aYwLmmJb7cwK",
         "order": 0,
-        "strokecolor": "A020F0",
-        "fillcolor": "A020F0",
+        "strokecolor": "800080",
+        "fillcolor": "800080",
         "latlngarray": [
 			{"lat": -75.419, "lng": -12.642},
 			{"lat": -75.325, "lng": -12.346},
