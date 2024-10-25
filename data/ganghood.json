@@ -97,6 +97,40 @@
 			{"lat": -73.321, "lng": 23.721},
 			{"lat": -73.757, "lng": 21.348}
 		]
+	},
+	{
+		"title": "Marabunta",
+		"notes": "Rule is under my Legacy",
+		"wiki_link": "https://youtu.be/g4d3gUZa1xw?si=y4s-aYwLmmJb7cwK",
+		"order": 0,
+		"strokecolor": "94e5ff",
+		"fillcolor": "94e5ff",
+		"latlngarray": [
+			{"lat": -72.281, "lng": 22.502},
+			{"lat": -71.745, "lng": 26.105},
+			{"lat": -72.194, "lng": 27.534},
+			{"lat": -73.034, "lng": 23.820},
+			{"lat": -72.866, "lng": 23.403},
+			{"lat": -72.697, "lng": 23.073},
+			{"lat": -72.487, "lng": 22.722}
+		]
+	},
+	{
+		"title": "The Lost MC (TLMC)",
+		"notes": "Bike on my Blood",
+		"order": 0,
+		"strokecolor": "666362",
+		"fillcolor": "666362",
+		"latlngarray": [
+			{"lat": 43.567, "lng": -17.457},
+			{"lat": 43.567, "lng": -7.794},
+			{"lat": 38.702, "lng": -7.794},
+			{"lat": 38.702, "lng": -10.315},
+			{"lat": 36.751, "lng": -10.315},
+			{"lat": 36.751, "lng": -14.371},
+			{"lat": 38.699, "lng": -14.371},
+			{"lat": 38.699, "lng": -17.457}
+		]
 	}
 ]
 
