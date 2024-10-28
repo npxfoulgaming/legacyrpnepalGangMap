@@ -45,8 +45,9 @@
 			{"lat": -61.711, "lng": 21.992},
 			{"lat": -61.985, "lng": 21.948}
 		]
-	},
-	{
+	}, 
+	function disableCode() {
+    return{
 		"title": "Son Of Leagcy (SOL) ",
 		"notes": "Oldest Gang of the City",
 		"wiki_link": "https://www.youtube.com/watch?v=g4d3gUZa1xw",
@@ -62,6 +63,7 @@
                          {"lat": -50.622, "lng": -45.092},
                          {"lat": -48.745, "lng": -46.521}
 		]
+		};
 	},
 	{
 		"title": "Tokyo (TKY) ",
@@ -89,6 +91,7 @@
 			{"lat": -46.538, "lng": -12.066}
 		]
 	},
+	*/
 	{
 		"title": "Crips",
 		"notes": "East Side Crips",
