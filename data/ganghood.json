@@ -128,6 +128,7 @@
 	{
 		"title": "The Lost MC (TLMC)",
 		"notes": "Bike on my Blood",
+		"wiki_link": "https://youtu.be/g4d3gUZa1xw?si=y4s-aYwLmmJb7cwK",
 		"order": 0,
 		"strokecolor": "666362",
 		"fillcolor": "666362",
@@ -140,6 +141,23 @@
 			{"lat": 36.751, "lng": -14.371},
 			{"lat": 38.699, "lng": -14.371},
 			{"lat": 38.699, "lng": -17.457}
+		]
+	},
+	{
+		"title": "Black Mafia",
+		"notes": "Ruling is on my Blood",
+		"wiki_link": "https://youtu.be/g4d3gUZa1xw?si=y4s-aYwLmmJb7cwK",
+		"order": 0,
+		"strokecolor": "000000",
+		"fillcolor": "000000",
+		"latlngarray": [
+			{"lat": -73.086, "lng": -48.734},
+			{"lat": -73.858, "lng": -46.790},
+			{"lat": -73.965, "lng": -46.515},
+			{"lat": -73.491, "lng": -44.636},
+			{"lat": -73.484, "lng": -44.889},
+			{"lat": -73.459, "lng": -45.065},
+			{"lat": -72.748, "lng": -46.910}
 		]
 	}
 ]
