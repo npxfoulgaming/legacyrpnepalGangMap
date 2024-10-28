@@ -46,25 +46,6 @@
 			{"lat": -61.985, "lng": 21.948}
 		]
 	}, 
-	function disableCode() {
-    return{
-		"title": "Son Of Leagcy (SOL) ",
-		"notes": "Oldest Gang of the City",
-		"wiki_link": "https://www.youtube.com/watch?v=g4d3gUZa1xw",
-		"order": 0,
-		"strokecolor": "FF0000",
-		"fillcolor": "FF0000",
-		"latlngarray": [
-			 {"lat": -48.047, "lng": -46.122},
-                         {"lat": -48.876, "lng": -39.599},
-                         {"lat": -51.832, "lng": -39.709},
-                         {"lat": -51.710, "lng": -42.456},
-                         {"lat": -51.900, "lng": -43.554},
-                         {"lat": -50.622, "lng": -45.092},
-                         {"lat": -48.745, "lng": -46.521}
-		]
-		};
-	},
 	{
 		"title": "Tokyo (TKY) ",
 		"notes": "We are here to Rule the Fxcking Los Santos City",
