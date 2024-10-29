@@ -141,7 +141,6 @@ $(function() {
 					enabled: true,
 					url: 'data/neutral.json',
 				}),
-			    
 				new CategoryModel({
 					name: 'Medical',
 					icon: 'radar/radar_hospital.png',
@@ -149,15 +148,22 @@ $(function() {
 					url: 'data/medical.json',
 				}),
 				new CategoryModel({
-					name: 'Holding Zone',
-					icon: 'radar/zone.png',
+					name: 'Legal & Impound Lots',
+					icon: 'radar/radar_police_station.png',
 					enabled: true,
-					url: 'data/zone.json',
+					url: 'data/legal.json',
 				}),
+				new CategoryModel({
+					name: 'Restaurants',
+					icon: 'radar/radar_restaurant.png',
+					enabled: true,
+					url: 'data/restaurant.json',
+				}),
+				
 			]),
 		}),
 		new SectionModel({
-			name: 'Others',
+			name: 'Gang Related',
 			categories: new CategoriesCollection([
 				new CategoryModel({
 					name: 'Gang Hood',
@@ -172,23 +178,18 @@ $(function() {
 					url: 'data/illegal_turf.json',
 				}),
 				new CategoryModel({
+					name: 'Holding Zone',
+					icon: 'radar/zone.png',
+					enabled: true,
+					url: 'data/zone.json',
+				}),
+				new CategoryModel({
 					name: 'Heists',
 					icon: 'radar/radar_heist.png',
 					enabled: true,
 					url: 'data/heists.json',
 				}),
-				new CategoryModel({
-					name: 'Legal & Impound Lots',
-					icon: 'radar/radar_police_station.png',
-					enabled: true,
-					url: 'data/legal.json',
-				}),
-				new CategoryModel({
-					name: 'Restaurants',
-					icon: 'radar/radar_restaurant.png',
-					enabled: true,
-					url: 'data/restaurant.json',
-				}),
+				
 			]),
 		}),
 		
