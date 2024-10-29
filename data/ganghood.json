@@ -47,33 +47,6 @@
 		]
 	}, 
 	{
-		"title": "Tokyo (TKY) ",
-		"notes": "We are here to Rule the Fxcking Los Santos City",
-		"wiki_link": "https://www.youtube.com/watch?v=g4d3gUZa1xw",
-		"order": 0,
-		"strokecolor": "008080",
-		"fillcolor": "008080",
-		"latlngarray": [
-			{"lat": -46.944, "lng": -12.890},
-			{"lat": -46.341, "lng": -12.505},
-			{"lat": -46.021, "lng": -12.197},
-			{"lat": -45.769, "lng": -11.791},
-			{"lat": -45.191, "lng": -10.088},
-			{"lat": -44.951, "lng": -8.693},
-			{"lat": -44.811, "lng": -8.089},
-			{"lat": -45.114, "lng": -7.968},
-			{"lat": -45.661, "lng": -7.572},
-			{"lat": -45.792, "lng": -7.484},
-			{"lat": -46.029, "lng": -7.407},
-			{"lat": -46.500, "lng": -7.616},
-			{"lat": -46.097, "lng": -9.275},
-			{"lat": -46.052, "lng": -10.253},
-			{"lat": -46.234, "lng": -11.264},
-			{"lat": -46.538, "lng": -12.066}
-		]
-	},
-	*/
-	{
 		"title": "Crips",
 		"notes": "East Side Crips",
 		"wiki_link": "https://youtu.be/g4d3gUZa1xw?si=y4s-aYwLmmJb7cwK",
