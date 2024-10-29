@@ -26,7 +26,12 @@
 			{"lat": -75.655, "lng": -14.520},
 			{"lat": -75.565, "lng": -15.037},
 			{"lat": -75.306, "lng": -16.399}
-		]
+		],
+		"video": {
+			"yt_id": "g4d3gUZa1xw?si=V4qYZq1tFuHYQOja",
+			"yt_user_display": "Legacy Roleplay Nepal",
+			"yt_user_link": "c/legacyrpnepal"
+		}
 	},
 	{
 		"title": "Yakuza",
@@ -44,7 +49,12 @@
 			{"lat": -61.365, "lng": 22.003},
 			{"lat": -61.711, "lng": 21.992},
 			{"lat": -61.985, "lng": 21.948}
-		]
+		],
+		"video": {
+			"yt_id": "g4d3gUZa1xw?si=V4qYZq1tFuHYQOja",
+			"yt_user_display": "Legacy Roleplay Nepal",
+			"yt_user_link": "c/legacyrpnepal"
+		}
 	}, 
 	{
 		"title": "Crips",
@@ -63,7 +73,12 @@
 			{"lat": -72.907, "lng": 22.696},
 			{"lat": -72.673, "lng": 22.213},
 			{"lat": -72.528, "lng": 22.037}
-		]
+		],
+		"video": {
+			"yt_id": "g4d3gUZa1xw?si=V4qYZq1tFuHYQOja",
+			"yt_user_display": "Legacy Roleplay Nepal",
+			"yt_user_link": "c/legacyrpnepal"
+		}
 	},
 	{
 		"title": "Marabunta",
@@ -80,7 +95,12 @@
 			{"lat": -72.866, "lng": 23.403},
 			{"lat": -72.697, "lng": 23.073},
 			{"lat": -72.487, "lng": 22.722}
-		]
+		],
+		"video": {
+			"yt_id": "g4d3gUZa1xw?si=V4qYZq1tFuHYQOja",
+			"yt_user_display": "Legacy Roleplay Nepal",
+			"yt_user_link": "c/legacyrpnepal"
+		}
 	},
 	{
 		"title": "The Lost MC (TLMC)",
@@ -98,7 +118,12 @@
 			{"lat": 36.751, "lng": -14.371},
 			{"lat": 38.699, "lng": -14.371},
 			{"lat": 38.699, "lng": -17.457}
-		]
+		],
+		"video": {
+			"yt_id": "g4d3gUZa1xw?si=V4qYZq1tFuHYQOja",
+			"yt_user_display": "Legacy Roleplay Nepal",
+			"yt_user_link": "c/legacyrpnepal"
+		}
 	},
 	{
 		"title": "Black Mafia",
@@ -115,7 +140,12 @@
 			{"lat": -73.484, "lng": -44.889},
 			{"lat": -73.459, "lng": -45.065},
 			{"lat": -72.748, "lng": -46.910}
-		]
+		],
+		"video": {
+			"yt_id": "g4d3gUZa1xw?si=V4qYZq1tFuHYQOja",
+			"yt_user_display": "Legacy Roleplay Nepal",
+			"yt_user_link": "c/legacyrpnepal"
+		}
 	}
 ]
 
