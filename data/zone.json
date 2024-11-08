@@ -121,10 +121,10 @@
 	},
     {
 		"title": "Strawberry",
-		"notes": "Gang: XXX",
+		"notes": "Gang: Ballas",
 		"order": 0,
-		"strokecolor": "F88379",
-		"fillcolor": "F88379",
+		"strokecolor": "800080",
+		"fillcolor": "800080",
 		"latlngarray": [
 			{"lat": -68.915, "lng": -26.659},
 			{"lat": -68.915, "lng": -0.351},
@@ -172,10 +172,10 @@
 	},
     {
 		"title": "Murrieta Heights",
-		"notes": "Gang: XXX",
+		"notes": "Gang: Marabunta",
 		"order": 0,
-		"strokecolor": "F88379",
-		"fillcolor": "F88379",
+		"strokecolor": "94e5ff",
+		"fillcolor": "94e5ff",
 		"latlngarray": [
 			{"lat": -65.079, "lng": 10.917},
 			{"lat": -65.079, "lng": 25.338},
@@ -189,10 +189,10 @@
 	},
     {
 		"title": "Mirror Park",
-		"notes": "Gang: Yakuza",
+		"notes": "Gang: Son Of Legacy (SOL)",
 		"order": 0,
-		"strokecolor": "FFFFFF",
-		"fillcolor": "FFFFFF",
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
 		"latlngarray": [
 			{"lat": -57.669, "lng": 10.272},
 			{"lat": -57.669, "lng": 25.338},
@@ -426,10 +426,10 @@
 	},
     {
 		"title": "Harmony",
-		"notes": "Gang: Crips",
+		"notes": "Gang: The Lost MC",
 		"order": 0,
-		"strokecolor": "0000FF",
-		"fillcolor": "0000FF",
+		"strokecolor": "666362",
+		"fillcolor": "666362",
 		"latlngarray": [
 			{"lat": 17.381, "lng": -10.277},
 			{"lat": 17.381, "lng": 5.082},
@@ -477,10 +477,10 @@
 	},
     {
 		"title": "Grapeseed",
-		"notes": "Gang: XXX",
+		"notes": "Gang: Yakuza",
 		"order": 0,
-		"strokecolor": "F88379",
-		"fillcolor": "F88379",
+		"strokecolor": "FFFFFF",
+		"fillcolor": "FFFFFF",
 		"latlngarray": [
 			{"lat": 66.433, "lng": 31.612},
 			{"lat": 66.433, "lng": 57.589},
@@ -498,10 +498,10 @@
 	},
     {
 		"title": "Chiliad Mountain State Wilderness",
-		"notes": "Gang: XXX",
+		"notes": "Gang: Yakuza",
 		"order": 0,
-		"strokecolor": "F88379",
-		"fillcolor": "F88379",
+		"strokecolor": "FFFFFF",
+		"fillcolor": "FFFFFF",
 		"latlngarray": [
 			{"lat": 67.153, "lng": -55.521},
 			{"lat": 67.153, "lng": -47.789},
@@ -548,10 +548,10 @@
 	},
     {
 		"title": "Paleto Bay",
-		"notes": "Gang: Yakuza",
+		"notes": "Gang: Son Of Legacy (SOL)",
 		"order": 0,
-		"strokecolor": "FFFFFF",
-		"fillcolor": "FFFFFF",
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
 		"latlngarray": [
 			{"lat": 80.844, "lng": -16.059},
 			{"lat": 80.844, "lng": -9.234},
@@ -597,10 +597,10 @@
 	},
     {
 		"title": "Davis Quartz",
-		"notes": "Gang: XXX",
+		"notes": "Gang: Crips",
 		"order": 0,
-		"strokecolor": "F88379",
-		"fillcolor": "F88379",
+		"strokecolor": "0000FF",
+		"fillcolor": "0000FF",
 		"latlngarray": [
 			{"lat": 24.498, "lng": 66.949},
 			{"lat": 24.498, "lng": 75.042},
@@ -631,10 +631,10 @@
 	},
     {
 		"title": "Procopio Beach",
-		"notes": "Gang: XXX",
+		"notes": "Gang: Crips",
 		"order": 0,
-		"strokecolor": "F88379",
-		"fillcolor": "F88379",
+		"strokecolor": "0000FF",
+		"fillcolor": "0000FF",
 		"latlngarray": [
 			{"lat": 78.325, "lng": 2.943},
 			{"lat": 78.325, "lng": 30.151},
