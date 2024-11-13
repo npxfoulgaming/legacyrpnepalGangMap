@@ -54,10 +54,10 @@
 	},
     {
 		"title": "El Burro Heights",
-		"notes": "Gang: Yakuza",
+		"notes": "Gang: Son Of Legacy",
 		"order": 0,
-		"strokecolor": "0000FF",
-		"fillcolor": "0000FF",
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
 		"latlngarray": [
 			{"lat": -71.216, "lng": 17.418},
 			{"lat": -71.216, "lng": 28.121},
@@ -159,10 +159,10 @@
 	},
     {
 		"title": "Textile City",
-		"notes": "Gang: XXX",
+		"notes": "Gang: Marabunta",
 		"order": 0,
-		"strokecolor": "F88379",
-		"fillcolor": "F88379",
+		"strokecolor": "94E5FF",
+		"fillcolor": "94E5FF",
 		"latlngarray": [
 			{"lat": -61.903, "lng": -6.646},
 			{"lat": -61.903, "lng": -0.351},
@@ -172,10 +172,10 @@
 	},
     {
 		"title": "Murrieta Heights",
-		"notes": "Gang: Marabunta",
+		"notes": "Gang: Yakuza",
 		"order": 0,
-		"strokecolor": "94e5ff",
-		"fillcolor": "94e5ff",
+		"strokecolor": "FFFFFF",
+		"fillcolor": "FFFFFF",
 		"latlngarray": [
 			{"lat": -65.079, "lng": 10.917},
 			{"lat": -65.079, "lng": 25.338},
@@ -221,10 +221,10 @@
 	},
     {
 		"title": "Downtown Vinewood",
-		"notes": "Gang: XXX",
+		"notes": "Gang: Marabunta",
 		"order": 0,
-		"strokecolor": "F88379",
-		"fillcolor": "F88379",
+		"strokecolor": "94E5FF",
+		"fillcolor": "94E5FF",
 		"latlngarray": [
 			{"lat": -44.544, "lng": -13.503},
 			{"lat": -44.544, "lng": 5.168},
@@ -249,10 +249,10 @@
 	},
     {
 		"title": "Del Perro",
-		"notes": "Gang: Crips",
+		"notes": "Gang: Ballas",
 		"order": 0,
-		"strokecolor": "0000FF",
-		"fillcolor": "0000FF",
+		"strokecolor": "800080",
+		"fillcolor": "800080",
 		"latlngarray": [
 			{"lat": -59.524, "lng": -69.248},
 			{"lat": -59.524, "lng": -52.526},
@@ -426,10 +426,10 @@
 	},
     {
 		"title": "Harmony",
-		"notes": "Gang: The Lost MC",
+		"notes": "Gang: Son Of Legacy (SOL)",
 		"order": 0,
-		"strokecolor": "666362",
-		"fillcolor": "666362",
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
 		"latlngarray": [
 			{"lat": 17.381, "lng": -10.277},
 			{"lat": 17.381, "lng": 5.082},
@@ -477,10 +477,10 @@
 	},
     {
 		"title": "Grapeseed",
-		"notes": "Gang: Yakuza",
+		"notes": "Gang: Ballas",
 		"order": 0,
-		"strokecolor": "FFFFFF",
-		"fillcolor": "FFFFFF",
+		"strokecolor": "800080",
+		"fillcolor": "800080",
 		"latlngarray": [
 			{"lat": 66.433, "lng": 31.612},
 			{"lat": 66.433, "lng": 57.589},
@@ -618,10 +618,10 @@
 	},
     {
 		"title": "Hawick",
-		"notes": "Gang: XXX",
+		"notes": "Gang: Marabunta",
 		"order": 0,
-		"strokecolor": "F88379",
-		"fillcolor": "F88379",
+		"strokecolor": "94e5ff",
+		"fillcolor": "94e5ff",
 		"latlngarray": [
 			{"lat": -53.373, "lng": -16.248},
 			{"lat": -53.373, "lng": 5.168},
