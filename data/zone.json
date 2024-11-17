@@ -138,10 +138,10 @@
 	},
     {
 		"title": "Pillbox Hill",
-		"notes": "Gang: XXX",
+		"notes": "Gang: Ballas",
 		"order": 0,
-		"strokecolor": "F88379",
-		"fillcolor": "F88379",
+		"strokecolor": "800080",
+		"fillcolor": "800080",
 		"latlngarray": [
 			{"lat": -63.921, "lng": -25.245},
 			{"lat": -63.921, "lng": -22.826},
@@ -159,10 +159,10 @@
 	},
     {
 		"title": "Textile City",
-		"notes": "Gang: Marabunta",
+		"notes": "Gang: Black Mafia",
 		"order": 0,
-		"strokecolor": "94E5FF",
-		"fillcolor": "94E5FF",
+		"strokecolor": "000000",
+		"fillcolor": "000000",
 		"latlngarray": [
 			{"lat": -61.903, "lng": -6.646},
 			{"lat": -61.903, "lng": -0.351},
