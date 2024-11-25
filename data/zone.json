@@ -24,10 +24,10 @@
 	},
     {
 		"title": "Terminal",
-		"notes": "Gang: Yakuza",
+		"notes": "Gang: Ballas",
 		"order": 0,
-		"strokecolor": "FFFFFF",
-		"fillcolor": "FFFFFF",
+		"strokecolor": "800080",
+		"fillcolor": "800080",
 		"latlngarray": [
 			{"lat": -80.331, "lng": 5.081},
 			{"lat": -80.331, "lng": 24.856},
@@ -77,10 +77,10 @@
 	},
     {
 		"title": "Rancho",
-		"notes": "Gang: XXX",
+		"notes": "Gang: Crips",
 		"order": 0,
-		"strokecolor": "F88379",
-		"fillcolor": "F88379",
+		"strokecolor": "0000FF",
+		"fillcolor": "0000FF",
 		"latlngarray": [
 			{"lat": -71.551, "lng": -4.542},
 			{"lat": -71.551, "lng": -0.351},
@@ -439,10 +439,10 @@
 	},
     {
 		"title": "Sandy Shores",
-		"notes": "Gang: Ballas",
+		"notes": "Gang: Son Of Legacy (SOL)",
 		"order": 0,
-		"strokecolor": "800080",
-		"fillcolor": "800080",
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
 		"latlngarray": [
 			{"lat": 47.476, "lng": 55.025},
 			{"lat": 47.476, "lng": 66.426},
@@ -523,10 +523,10 @@
 	},
     {
 		"title": "Paleto Forest",
-		"notes": "Gang: XXX",
+		"notes": "Gang: Marabunta",
 		"order": 0,
-		"strokecolor": "F88379",
-		"fillcolor": "F88379",
+		"strokecolor": "94E5FF",
+		"fillcolor": "94E5FF",
 		"latlngarray": [
 			{"lat": 75.891, "lng": -44.515},
 			{"lat": 75.891, "lng": -39.607},
