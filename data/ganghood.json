@@ -76,29 +76,6 @@
 		}
 	},
 	{
-		"title": "Yakuza",
-		"notes": "Japanese Gang came to Los Santos to Rule",
-		"wiki_link": "https://www.youtube.com/watch?v=g4d3gUZa1xw",
-		"order": 0,
-		"strokecolor": "FFFFFF",
-		"fillcolor": "FFFFFF",
-		"latlngarray": [
-			{"lat": -62.198, "lng": 22.049},
-			{"lat": -62.872, "lng": 25.410},
-			{"lat": -61.608, "lng": 26.476},
-			{"lat": -60.786, "lng": 22.377},
-			{"lat": -61.074, "lng": 22.190},
-			{"lat": -61.365, "lng": 22.003},
-			{"lat": -61.711, "lng": 21.992},
-			{"lat": -61.985, "lng": 21.948}
-		],
-		"video": {
-			"yt_id": "g4d3gUZa1xw?si=V4qYZq1tFuHYQOja",
-			"yt_user_display": "Legacy Roleplay Nepal",
-			"yt_user_link": "c/legacyrpnepal"
-		}
-	}, 
-	{
 		"title": "Crips",
 		"notes": "East Side Crips",
 		"wiki_link": "https://youtu.be/g4d3gUZa1xw?si=y4s-aYwLmmJb7cwK",
