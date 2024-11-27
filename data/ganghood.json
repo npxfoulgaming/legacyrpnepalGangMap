@@ -130,13 +130,15 @@
 		"strokecolor": "94e5ff",
 		"fillcolor": "94e5ff",
 		"latlngarray": [
-			{"lat": -72.281, "lng": 22.502},
-			{"lat": -71.745, "lng": 26.105},
-			{"lat": -72.194, "lng": 27.534},
-			{"lat": -73.034, "lng": 23.820},
-			{"lat": -72.866, "lng": 23.403},
-			{"lat": -72.697, "lng": 23.073},
-			{"lat": -72.487, "lng": 22.722}
+			{"lat": -56.353, "lng": -60.158},
+			{"lat": -57.345, "lng": -58.609},
+			{"lat": -57.746, "lng": -59.191},
+			{"lat": -57.968, "lng": -59.488},
+			{"lat": -58.431, "lng": -60.180},
+			{"lat": -57.810, "lng": -61.410},
+			{"lat": -57.172, "lng": -61.267},
+			{"lat": -56.861, "lng": -61.048},
+			{"lat": -56.566, "lng": -60.641}
 		],
 		"video": {
 			"yt_id": "g4d3gUZa1xw?si=V4qYZq1tFuHYQOja",
@@ -167,27 +169,37 @@
 			"yt_user_link": "c/legacyrpnepal"
 		}
 	},
-	{
-		"title": "Black Mafia",
-		"notes": "Ruling is on my Blood",
+		{
+		"title": "Grove Street Families (GSF)",
+		"notes": "From the block to the top, GSF Don't stop",
 		"wiki_link": "https://youtu.be/g4d3gUZa1xw?si=y4s-aYwLmmJb7cwK",
 		"order": 0,
-		"strokecolor": "000000",
-		"fillcolor": "000000",
+		"strokecolor": "00ff00",
+		"fillcolor": "00ff00",
 		"latlngarray": [
-			{"lat": -73.086, "lng": -48.734},
-			{"lat": -73.858, "lng": -46.790},
-			{"lat": -73.965, "lng": -46.515},
-			{"lat": -73.491, "lng": -44.636},
-			{"lat": -73.484, "lng": -44.889},
-			{"lat": -73.459, "lng": -45.065},
-			{"lat": -72.748, "lng": -46.910}
+			{"lat": -71.492, "lng": -17.330},
+			{"lat": -71.492, "lng": -16.627},
+			{"lat": -71.495, "lng": -16.166},
+			{"lat": -71.485, "lng": -15.814},
+			{"lat": -71.429, "lng": -14.891},
+			{"lat": -71.429, "lng": -14.265},
+			{"lat": -71.425, "lng": -13.771},
+			{"lat": -71.404, "lng": -13.441},
+			{"lat": -71.471, "lng": -13.254},
+			{"lat": -71.589, "lng": -13.617},
+			{"lat": -71.806, "lng": -14.232},
+			{"lat": -71.963, "lng": -14.672},
+			{"lat": -71.940, "lng": -14.760},
+			{"lat": -71.984, "lng": -16.649},
+			{"lat": -71.779, "lng": -16.968},
+			{"lat": -71.679, "lng": -17.166},
+			{"lat": -71.575, "lng": -17.308}
 		],
 		"video": {
 			"yt_id": "g4d3gUZa1xw?si=V4qYZq1tFuHYQOja",
 			"yt_user_display": "Legacy Roleplay Nepal",
 			"yt_user_link": "c/legacyrpnepal"
 		}
-	}
+	},
 ]
 
