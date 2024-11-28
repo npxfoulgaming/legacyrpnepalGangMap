@@ -159,10 +159,10 @@
 	},
     {
 		"title": "Textile City",
-		"notes": "Gang: Black Mafia",
+		"notes": "Gang: xxx",
 		"order": 0,
-		"strokecolor": "000000",
-		"fillcolor": "000000",
+		"strokecolor": "F88379",
+		"fillcolor": "F88379",
 		"latlngarray": [
 			{"lat": -61.903, "lng": -6.646},
 			{"lat": -61.903, "lng": -0.351},
@@ -172,10 +172,10 @@
 	},
     {
 		"title": "Murrieta Heights",
-		"notes": "Gang: Yakuza",
+		"notes": "Gang: xxx",
 		"order": 0,
-		"strokecolor": "FFFFFF",
-		"fillcolor": "FFFFFF",
+		"strokecolor": "F88379",
+		"fillcolor": "F88379",
 		"latlngarray": [
 			{"lat": -65.079, "lng": 10.917},
 			{"lat": -65.079, "lng": 25.338},
@@ -498,10 +498,10 @@
 	},
     {
 		"title": "Chiliad Mountain State Wilderness",
-		"notes": "Gang: Yakuza",
+		"notes": "Gang: xxx",
 		"order": 0,
-		"strokecolor": "FFFFFF",
-		"fillcolor": "FFFFFF",
+		"strokecolor": "F88379",
+		"fillcolor": "F88379",
 		"latlngarray": [
 			{"lat": 67.153, "lng": -55.521},
 			{"lat": 67.153, "lng": -47.789},
