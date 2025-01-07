@@ -77,10 +77,10 @@
 	},
     {
 		"title": "Rancho",
-		"notes": "Gang: Crips",
+		"notes": "Gang: xxx",
 		"order": 0,
-		"strokecolor": "0000FF",
-		"fillcolor": "0000FF",
+		"strokecolor": "F88379",
+		"fillcolor": "F88379",
 		"latlngarray": [
 			{"lat": -71.551, "lng": -4.542},
 			{"lat": -71.551, "lng": -0.351},
@@ -221,10 +221,10 @@
 	},
     {
 		"title": "Downtown Vinewood",
-		"notes": "Gang: Marabunta",
+		"notes": "Gang: xxx",
 		"order": 0,
-		"strokecolor": "94E5FF",
-		"fillcolor": "94E5FF",
+		"strokecolor": "F88379",
+		"fillcolor": "F88379",
 		"latlngarray": [
 			{"lat": -44.544, "lng": -13.503},
 			{"lat": -44.544, "lng": 5.168},
@@ -278,10 +278,10 @@
 	},
     {
 		"title": "Vespucci Canals",
-		"notes": "Gang: Crips",
+		"notes": "Gang: xxx",
 		"order": 0,
-		"strokecolor": "0000FF",
-		"fillcolor": "0000FF",
+		"strokecolor": "F88379",
+		"fillcolor": "F88379",
 		"latlngarray": [
 			{"lat": -63.832, "lng": -48.911},
 			{"lat": -63.832, "lng": -41.994},
@@ -307,10 +307,10 @@
 	},
     {
 		"title": "Vespucci Beach",
-		"notes": "Gang: Crips",
+		"notes": "Gang: xxx",
 		"order": 0,
-		"strokecolor": "0000FF",
-		"fillcolor": "0000FF",
+		"strokecolor": "F88379",
+		"fillcolor": "F88379",
 		"latlngarray": [
 			{"lat": -66.732, "lng": -55.611},
 			{"lat": -66.732, "lng": -53.182},
@@ -366,7 +366,7 @@
 	},
     {
 		"title": "Vinewood Hills",
-		"notes": "Gang: XXX",
+		"notes": "Gang: xxx",
 		"order": 0,
 		"strokecolor": "F88379",
 		"fillcolor": "F88379",
@@ -407,7 +407,7 @@
 	},
     {
 		"title": "Tongva Hills",
-		"notes": "Gang: XXX",
+		"notes": "Gang: xxx",
 		"order": 0,
 		"strokecolor": "F88379",
 		"fillcolor": "F88379",
@@ -460,7 +460,7 @@
 	},
     {
 		"title": "Stab City",
-		"notes": "Gang: XXX",
+		"notes": "Gang: xxx",
 		"order": 0,
 		"strokecolor": "F88379",
 		"fillcolor": "F88379",
@@ -498,10 +498,10 @@
 	},
     {
 		"title": "Chiliad Mountain State Wilderness",
-		"notes": "Gang: Marabunta",
+		"notes": "Gang: xxx",
 		"order": 0,
-		"strokecolor": "94E5FF",
-		"fillcolor": "94E5FF",
+		"strokecolor": "F88379",
+		"fillcolor": "F88379",
 		"latlngarray": [
 			{"lat": 67.153, "lng": -55.521},
 			{"lat": 67.153, "lng": -47.789},
@@ -523,10 +523,10 @@
 	},
     {
 		"title": "Paleto Forest",
-		"notes": "Gang: Marabunta",
+		"notes": "Gang: xxx",
 		"order": 0,
-		"strokecolor": "94E5FF",
-		"fillcolor": "94E5FF",
+		"strokecolor": "F88379",
+		"fillcolor": "F88379",
 		"latlngarray": [
 			{"lat": 75.891, "lng": -44.515},
 			{"lat": 75.891, "lng": -39.607},
@@ -597,10 +597,10 @@
 	},
     {
 		"title": "Davis Quartz",
-		"notes": "Gang: Crips",
+		"notes": "Gang: xxx",
 		"order": 0,
-		"strokecolor": "0000FF",
-		"fillcolor": "0000FF",
+		"strokecolor": "F88379",
+		"fillcolor": "F88379",
 		"latlngarray": [
 			{"lat": 24.498, "lng": 66.949},
 			{"lat": 24.498, "lng": 75.042},
@@ -618,10 +618,10 @@
 	},
     {
 		"title": "Hawick",
-		"notes": "Gang: Marabunta",
+		"notes": "Gang: xxx",
 		"order": 0,
-		"strokecolor": "94e5ff",
-		"fillcolor": "94e5ff",
+		"strokecolor": "F88379",
+		"fillcolor": "F88379",
 		"latlngarray": [
 			{"lat": -53.373, "lng": -16.248},
 			{"lat": -53.373, "lng": 5.168},
@@ -631,10 +631,10 @@
 	},
     {
 		"title": "Procopio Beach",
-		"notes": "Gang: Crips",
+		"notes": "Gang: xxx",
 		"order": 0,
-		"strokecolor": "0000FF",
-		"fillcolor": "0000FF",
+		"strokecolor": "F88379",
+		"fillcolor": "F88379",
 		"latlngarray": [
 			{"lat": 78.325, "lng": 2.943},
 			{"lat": 78.325, "lng": 30.151},
