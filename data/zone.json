@@ -221,10 +221,10 @@
 	},
     {
 		"title": "Downtown Vinewood",
-		"notes": "Gang: xxx",
+		"notes": "Gang: Son Of Legacy (SOL)",
 		"order": 0,
-		"strokecolor": "F88379",
-		"fillcolor": "F88379",
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
 		"latlngarray": [
 			{"lat": -44.544, "lng": -13.503},
 			{"lat": -44.544, "lng": 5.168},
@@ -307,10 +307,10 @@
 	},
     {
 		"title": "Vespucci Beach",
-		"notes": "Gang: xxx",
+		"notes": "Gang: The Lost MC",
 		"order": 0,
-		"strokecolor": "F88379",
-		"fillcolor": "F88379",
+		"strokecolor": "666362",
+		"fillcolor": "666362",
 		"latlngarray": [
 			{"lat": -66.732, "lng": -55.611},
 			{"lat": -66.732, "lng": -53.182},
