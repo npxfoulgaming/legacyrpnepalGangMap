@@ -76,36 +76,12 @@
 		}
 	},
 	{
-		"title": "Crips",
-		"notes": "East Side Crips",
-		"wiki_link": "https://youtu.be/g4d3gUZa1xw?si=y4s-aYwLmmJb7cwK",
-		"order": 0,
-		"strokecolor": "0000FF",
-		"fillcolor": "0000FF",
-		"latlngarray": [
-			{"lat": -73.393, "lng": 17.478},
-			{"lat": -73.948, "lng": 18.203},
-			{"lat": -73.875, "lng": 18.863},
-			{"lat": -73.636, "lng": 20.730},
-			{"lat": -73.430, "lng": 21.983},
-			{"lat": -73.176, "lng": 23.355},
-			{"lat": -72.907, "lng": 22.696},
-			{"lat": -72.673, "lng": 22.213},
-			{"lat": -72.528, "lng": 22.037}
-		],
-		"video": {
-			"yt_id": "g4d3gUZa1xw?si=V4qYZq1tFuHYQOja",
-			"yt_user_display": "Legacy Roleplay Nepal",
-			"yt_user_link": "c/legacyrpnepal"
-		}
-	},
-	{
-		"title": "Marabunta",
+		"title": "Black Mafia",
 		"notes": "Rule is under my Legacy",
 		"wiki_link": "https://youtu.be/g4d3gUZa1xw?si=y4s-aYwLmmJb7cwK",
 		"order": 0,
-		"strokecolor": "94e5ff",
-		"fillcolor": "94e5ff",
+		"strokecolor": "000000",
+		"fillcolor": "000000",
 		"latlngarray": [
 			{"lat": -56.353, "lng": -60.158},
 			{"lat": -57.345, "lng": -58.609},
@@ -140,54 +116,6 @@
 			{"lat": 38.699, "lng": -14.371},
 			{"lat": 38.699, "lng": -17.457}
 		],
-		"video": {
-			"yt_id": "g4d3gUZa1xw?si=V4qYZq1tFuHYQOja",
-			"yt_user_display": "Legacy Roleplay Nepal",
-			"yt_user_link": "c/legacyrpnepal"
-		}
-	},
-	{
-		"title": "Grove Street Families (GSF)",
-		"notes": "From the block to the top, GSF Don't stop",
-		"wiki_link": "https://youtu.be/g4d3gUZa1xw?si=y4s-aYwLmmJb7cwK",
-		"order": 0,
-		"strokecolor": "00ff00",
-		"fillcolor": "00ff00",
-		"latlngarray":  [
-			{"lat": -72.173, "lng": -20.038},
-			{"lat": -72.860, "lng": -22.038},
-			{"lat": -73.909, "lng": -22.016},
-			{"lat": -74.030, "lng": -21.982},
-			{"lat": -74.418, "lng": -20.159},
-			{"lat": -74.368, "lng": -19.873},
-			{"lat": -74.156, "lng": -19.225},
-			{"lat": -73.158, "lng": -16.204}
-		],
-		"video": {
-			"yt_id": "g4d3gUZa1xw?si=V4qYZq1tFuHYQOja",
-			"yt_user_display": "Legacy Roleplay Nepal",
-			"yt_user_link": "c/legacyrpnepal"
-		}
-	},
-	{
-        "title": "The Black Mafia",
-        "notes": "Black",
-        "wiki_link": "https://youtu.be/g4d3gUZa1xw?si=y4s-aYwLmmJb7cwK",
-        "order": 0,
-        "strokecolor": "000000",
-        "fillcolor": "000000",
-        "latlngarray": [
-            {"lat": -56.391, "lng": -58.408},
-            {"lat": -56.657, "lng": -57.969},
-            {"lat": -57.422, "lng": -57.573},
-            {"lat": -57.986, "lng": -58.364},
-            {"lat": -58.403, "lng": -59.331},
-            {"lat": -58.724, "lng": -60.342},
-            {"lat": -58.287, "lng": -61.792},
-            {"lat": -56.994, "lng": -61.660},
-            {"lat": -56.293, "lng": -60.693},
-            {"lat": -55.901, "lng": -59.551}
-        ],
 		"video": {
 			"yt_id": "g4d3gUZa1xw?si=V4qYZq1tFuHYQOja",
 			"yt_user_display": "Legacy Roleplay Nepal",
