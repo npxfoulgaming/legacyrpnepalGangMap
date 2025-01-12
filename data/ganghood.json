@@ -168,6 +168,31 @@
 			"yt_user_display": "Legacy Roleplay Nepal",
 			"yt_user_link": "c/legacyrpnepal"
 		}
+	},
+	{
+        "title": "The Black Mafia",
+        "notes": "Black",
+        "wiki_link": "https://youtu.be/g4d3gUZa1xw?si=y4s-aYwLmmJb7cwK",
+        "order": 0,
+        "strokecolor": "000000",
+        "fillcolor": "000000",
+        "latlngarray": [
+            {"lat": -56.391, "lng": -58.408},
+            {"lat": -56.657, "lng": -57.969},
+            {"lat": -57.422, "lng": -57.573},
+            {"lat": -57.986, "lng": -58.364},
+            {"lat": -58.403, "lng": -59.331},
+            {"lat": -58.724, "lng": -60.342},
+            {"lat": -58.287, "lng": -61.792},
+            {"lat": -56.994, "lng": -61.660},
+            {"lat": -56.293, "lng": -60.693},
+            {"lat": -55.901, "lng": -59.551}
+        ],
+		"video": {
+			"yt_id": "g4d3gUZa1xw?si=V4qYZq1tFuHYQOja",
+			"yt_user_display": "Legacy Roleplay Nepal",
+			"yt_user_link": "c/legacyrpnepal"
+		}
 	}
 ]
 
