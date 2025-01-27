@@ -477,10 +477,10 @@
 	},
     {
 		"title": "Grapeseed",
-		"notes": "Gang: The Lost MC",
+		"notes": "Gang: Son Of Legacy (SOL)",
 		"order": 0,
-		"strokecolor": "666362",
-		"fillcolor": "666362",
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
 		"latlngarray": [
 			{"lat": 66.433, "lng": 31.612},
 			{"lat": 66.433, "lng": 57.589},
