@@ -278,10 +278,10 @@
 	},
     {
 		"title": "Vespucci Canals",
-		"notes": "Gang: xxx",
+		"notes": "Gang: The Lost MC",
 		"order": 0,
-		"strokecolor": "F88379",
-		"fillcolor": "F88379",
+		"strokecolor": "666362",
+		"fillcolor": "666362",
 		"latlngarray": [
 			{"lat": -63.832, "lng": -48.911},
 			{"lat": -63.832, "lng": -41.994},
@@ -407,10 +407,10 @@
 	},
     {
 		"title": "Tongva Hills",
-		"notes": "Gang: xxx",
+		"notes": "Gang: Jhola Gang",
 		"order": 0,
-		"strokecolor": "F88379",
-		"fillcolor": "F88379",
+		"strokecolor": "895129",
+		"fillcolor": "895129",
 		"latlngarray": [
 			{"lat": 4.621, "lng": -82.503},
 			{"lat": 4.621, "lng": -60.391},
@@ -597,10 +597,10 @@
 	},
     {
 		"title": "Davis Quartz",
-		"notes": "Gang: xxx",
+		"notes": "Gang: Ballas",
 		"order": 0,
-		"strokecolor": "F88379",
-		"fillcolor": "F88379",
+		"strokecolor": "800080",
+		"fillcolor": "800080",
 		"latlngarray": [
 			{"lat": 24.498, "lng": 66.949},
 			{"lat": 24.498, "lng": 75.042},
