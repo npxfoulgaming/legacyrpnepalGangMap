@@ -77,10 +77,10 @@
 	},
     {
 		"title": "Rancho",
-		"notes": "Gang: xxx",
+		"notes": "Gang: Ballas",
 		"order": 0,
-		"strokecolor": "F88379",
-		"fillcolor": "F88379",
+		"strokecolor": "800080",
+		"fillcolor": "800080",
 		"latlngarray": [
 			{"lat": -71.551, "lng": -4.542},
 			{"lat": -71.551, "lng": -0.351},
@@ -159,10 +159,10 @@
 	},
     {
 		"title": "Textile City",
-		"notes": "Gang: xxx",
+		"notes": "Gang: The Lost MC",
 		"order": 0,
-		"strokecolor": "F88379",
-		"fillcolor": "F88379",
+		"strokecolor": "666362",
+		"fillcolor": "666362",
 		"latlngarray": [
 			{"lat": -61.903, "lng": -6.646},
 			{"lat": -61.903, "lng": -0.351},
@@ -407,10 +407,10 @@
 	},
     {
 		"title": "Tongva Hills",
-		"notes": "Gang: Jhola Gang",
+		"notes": "Gang: The Lost MC",
 		"order": 0,
-		"strokecolor": "895129",
-		"fillcolor": "895129",
+		"strokecolor": "666362",
+		"fillcolor": "666362",
 		"latlngarray": [
 			{"lat": 4.621, "lng": -82.503},
 			{"lat": 4.621, "lng": -60.391},
@@ -631,10 +631,10 @@
 	},
     {
 		"title": "Procopio Beach",
-		"notes": "Gang: xxx",
+		"notes": "Gang: Jhola Gang",
 		"order": 0,
-		"strokecolor": "F88379",
-		"fillcolor": "F88379",
+		"strokecolor": "895129",
+		"fillcolor": "895129",
 		"latlngarray": [
 			{"lat": 78.325, "lng": 2.943},
 			{"lat": 78.325, "lng": 30.151},
