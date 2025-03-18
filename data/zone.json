@@ -234,10 +234,10 @@
 	},
     {
 		"title": "West Vinewood",
-		"notes": "Gang: Marabunta",
+		"notes": "Gang: Son Of Legacy (SOL)",
 		"order": 0,
-		"strokecolor": "94E5FF",
-		"fillcolor": "94E5FF",
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
 		"latlngarray": [
 			{"lat": -44.544, "lng": -36.553},
 			{"lat": -44.544, "lng": -13.503},
@@ -366,10 +366,10 @@
 	},
     {
 		"title": "Vinewood Hills",
-		"notes": "Gang: xxx",
+		"notes": "Gang: The Lost MC",
 		"order": 0,
-		"strokecolor": "F88379",
-		"fillcolor": "F88379",
+		"strokecolor": "666362",
+		"fillcolor": "666362",
 		"latlngarray": [
 			{"lat": -24.322, "lng": -57.704},
 			{"lat": -24.322, "lng": -52.748},
