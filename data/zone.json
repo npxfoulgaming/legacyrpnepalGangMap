@@ -121,10 +121,10 @@
 	},
     {
 		"title": "Strawberry",
-		"notes": "Gang: Ballas",
+		"notes": "Gang: The Lost MC",
 		"order": 0,
-		"strokecolor": "800080",
-		"fillcolor": "800080",
+		"strokecolor": "666362",
+		"fillcolor": "666362",
 		"latlngarray": [
 			{"lat": -68.915, "lng": -26.659},
 			{"lat": -68.915, "lng": -0.351},
@@ -523,10 +523,10 @@
 	},
     {
 		"title": "Paleto Forest",
-		"notes": "Gang: xxx",
+		"notes": "Gang: Son Of Legacy (SOL)",
 		"order": 0,
-		"strokecolor": "F88379",
-		"fillcolor": "F88379",
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
 		"latlngarray": [
 			{"lat": 75.891, "lng": -44.515},
 			{"lat": 75.891, "lng": -39.607},
