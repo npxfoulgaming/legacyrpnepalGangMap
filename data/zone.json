@@ -138,10 +138,10 @@
 	},
     {
 		"title": "Pillbox Hill",
-		"notes": "Gang: Ballas",
+		"notes": "Gang: The Lost MC",
 		"order": 0,
-		"strokecolor": "800080",
-		"fillcolor": "800080",
+		"strokecolor": "666362",
+		"fillcolor": "666362",
 		"latlngarray": [
 			{"lat": -63.921, "lng": -25.245},
 			{"lat": -63.921, "lng": -22.826},
