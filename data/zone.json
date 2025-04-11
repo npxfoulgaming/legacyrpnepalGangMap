@@ -366,10 +366,10 @@
 	},
     {
 		"title": "Vinewood Hills",
-		"notes": "Gang: The Lost MC",
+		"notes": "Gang: Son Of Legacy (SOL)",
 		"order": 0,
-		"strokecolor": "666362",
-		"fillcolor": "666362",
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
 		"latlngarray": [
 			{"lat": -24.322, "lng": -57.704},
 			{"lat": -24.322, "lng": -52.748},
