@@ -1,10 +1,10 @@
 [
     {
 		"title": "Elysian Island",
-		"notes": "Gang: Son Of Legacy (SOL)",
+		"notes": "Gang: No One",
 		"order": 0,
-		"strokecolor": "FF0000",
-		"fillcolor": "FF0000",
+		"strokecolor": "8deb79",
+		"fillcolor": "8deb79",
 		"latlngarray": [
 			{"lat": -76.962, "lng": -28.355},
 			{"lat": -76.962, "lng": -22.957},
@@ -24,10 +24,10 @@
 	},
     {
 		"title": "Terminal",
-		"notes": "Gang: Son Of Legacy (SOL)",
+		"notes": "Gang: No One",
 		"order": 0,
-		"strokecolor": "FF0000",
-		"fillcolor": "FF0000",
+		"strokecolor": "8deb79",
+		"fillcolor": "8deb79",
 		"latlngarray": [
 			{"lat": -80.331, "lng": 5.081},
 			{"lat": -80.331, "lng": 24.856},
@@ -37,10 +37,10 @@
 	},
     {
 		"title": "Cypress Flats",
-		"notes": "Gang: Son Of Legacy (SOL)",
+		"notes": "Gang: No One",
 		"order": 0,
-		"strokecolor": "FF0000",
-		"fillcolor": "FF0000",
+		"strokecolor": "8deb79",
+		"fillcolor": "8deb79",
 		"latlngarray": [
 			{"lat": -73.949, "lng": 3.019},
 			{"lat": -73.949, "lng": 11.931},
@@ -56,8 +56,8 @@
 		"title": "El Burro Heights",
 		"notes": "Gang: Son Of Legacy",
 		"order": 0,
-		"strokecolor": "FF0000",
-		"fillcolor": "FF0000",
+		"strokecolor": "8deb79",
+		"fillcolor": "8deb79",
 		"latlngarray": [
 			{"lat": -71.216, "lng": 17.418},
 			{"lat": -71.216, "lng": 28.121},
@@ -172,10 +172,10 @@
 	},
     {
 		"title": "Murrieta Heights",
-		"notes": "Gang: Son Of Legacy (SOL)",
+		"notes": "Gang: No One",
 		"order": 0,
-		"strokecolor": "FF0000",
-		"fillcolor": "FF0000",
+		"strokecolor": "8deb79",
+		"fillcolor": "8deb79",
 		"latlngarray": [
 			{"lat": -65.079, "lng": 10.917},
 			{"lat": -65.079, "lng": 25.338},
@@ -189,10 +189,10 @@
 	},
     {
 		"title": "Mirror Park",
-		"notes": "Gang: Son Of Legacy (SOL)",
+		"notes": "Gang: No One",
 		"order": 0,
-		"strokecolor": "FF0000",
-		"fillcolor": "FF0000",
+		"strokecolor": "8deb79",
+		"fillcolor": "8deb79",
 		"latlngarray": [
 			{"lat": -57.669, "lng": 10.272},
 			{"lat": -57.669, "lng": 25.338},
@@ -202,10 +202,10 @@
 	},
     {
 		"title": "East Vinewood",
-		"notes": "Gang: Son Of Legacy (SOL)",
+		"notes": "Gang: No One",
 		"order": 0,
-		"strokecolor": "FF0000",
-		"fillcolor": "FF0000",
+		"strokecolor": "8deb79",
+		"fillcolor": "8deb79",
 		"latlngarray": [
 			{"lat": -53.621, "lng": 5.168},
 			{"lat": -53.621, "lng": 12.642},
@@ -221,10 +221,10 @@
 	},
     {
 		"title": "Downtown Vinewood",
-		"notes": "Gang: Son Of Legacy (SOL)",
+		"notes": "Gang: No One",
 		"order": 0,
-		"strokecolor": "FF0000",
-		"fillcolor": "FF0000",
+		"strokecolor": "8deb79",
+		"fillcolor": "8deb79",
 		"latlngarray": [
 			{"lat": -44.544, "lng": -13.503},
 			{"lat": -44.544, "lng": 5.168},
@@ -234,10 +234,10 @@
 	},
     {
 		"title": "West Vinewood",
-		"notes": "Gang: Son Of Legacy (SOL)",
+		"notes": "Gang: No One",
 		"order": 0,
-		"strokecolor": "FF0000",
-		"fillcolor": "FF0000",
+		"strokecolor": "8deb79",
+		"fillcolor": "8deb79",
 		"latlngarray": [
 			{"lat": -44.544, "lng": -36.553},
 			{"lat": -44.544, "lng": -13.503},
@@ -366,10 +366,10 @@
 	},
     {
 		"title": "Vinewood Hills",
-		"notes": "Gang: Son Of Legacy (SOL)",
+		"notes": "Gang: No One",
 		"order": 0,
-		"strokecolor": "FF0000",
-		"fillcolor": "FF0000",
+		"strokecolor": "8deb79",
+		"fillcolor": "8deb79",
 		"latlngarray": [
 			{"lat": -24.322, "lng": -57.704},
 			{"lat": -24.322, "lng": -52.748},
@@ -426,10 +426,10 @@
 	},
     {
 		"title": "Harmony",
-		"notes": "Gang: Son Of Legacy (SOL)",
+		"notes": "Gang: No One",
 		"order": 0,
-		"strokecolor": "FF0000",
-		"fillcolor": "FF0000",
+		"strokecolor": "8deb79",
+		"fillcolor": "8deb79",
 		"latlngarray": [
 			{"lat": 17.381, "lng": -10.277},
 			{"lat": 17.381, "lng": 5.082},
@@ -439,10 +439,10 @@
 	},
     {
 		"title": "Sandy Shores",
-		"notes": "Gang: Son Of Legacy (SOL)",
+		"notes": "Gang: No One",
 		"order": 0,
-		"strokecolor": "FF0000",
-		"fillcolor": "FF0000",
+		"strokecolor": "8deb79",
+		"fillcolor": "8deb79",
 		"latlngarray": [
 			{"lat": 47.476, "lng": 55.025},
 			{"lat": 47.476, "lng": 66.426},
@@ -477,10 +477,10 @@
 	},
     {
 		"title": "Grapeseed",
-		"notes": "Gang: Son Of Legacy (SOL)",
+		"notes": "Gang: No One",
 		"order": 0,
-		"strokecolor": "FF0000",
-		"fillcolor": "FF0000",
+		"strokecolor": "8deb79",
+		"fillcolor": "8deb79",
 		"latlngarray": [
 			{"lat": 66.433, "lng": 31.612},
 			{"lat": 66.433, "lng": 57.589},
@@ -498,10 +498,10 @@
 	},
     {
 		"title": "Chiliad Mountain State Wilderness",
-		"notes": "Gang: Son Of Legacy (SOL)",
+		"notes": "Gang: No One",
 		"order": 0,
-		"strokecolor": "FF0000",
-		"fillcolor": "FF0000",
+		"strokecolor": "8deb79",
+		"fillcolor": "8deb79",
 		"latlngarray": [
 			{"lat": 67.153, "lng": -55.521},
 			{"lat": 67.153, "lng": -47.789},
@@ -523,10 +523,10 @@
 	},
     {
 		"title": "Paleto Forest",
-		"notes": "Gang: Son Of Legacy (SOL)",
+		"notes": "Gang: No One",
 		"order": 0,
-		"strokecolor": "FF0000",
-		"fillcolor": "FF0000",
+		"strokecolor": "8deb79",
+		"fillcolor": "8deb79",
 		"latlngarray": [
 			{"lat": 75.891, "lng": -44.515},
 			{"lat": 75.891, "lng": -39.607},
@@ -548,10 +548,10 @@
 	},
     {
 		"title": "Paleto Bay",
-		"notes": "Gang: Son Of Legacy (SOL)",
+		"notes": "Gang: No One",
 		"order": 0,
-		"strokecolor": "FF0000",
-		"fillcolor": "FF0000",
+		"strokecolor": "8deb79",
+		"fillcolor": "8deb79",
 		"latlngarray": [
 			{"lat": 80.844, "lng": -16.059},
 			{"lat": 80.844, "lng": -9.234},
@@ -631,10 +631,10 @@
 	},
     {
 		"title": "Procopio Beach",
-		"notes": "Gang: Son Of Legacy (SOL)",
+		"notes": "Gang: No One",
 		"order": 0,
-		"strokecolor": "FF0000",
-		"fillcolor": "FF0000",
+		"strokecolor": "8deb79",
+		"fillcolor": "8deb79",
 		"latlngarray": [
 			{"lat": 78.325, "lng": 2.943},
 			{"lat": 78.325, "lng": 30.151},
