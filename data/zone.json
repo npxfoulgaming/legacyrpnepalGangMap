@@ -3,7 +3,7 @@
 		"title": "Elysian Island",
 		"notes": "Gang: No One",
 		"order": 0,
-		"strokecolor": "00000000",
+		"strokecolor": "4E5B31",
 		"fillcolor": "4E5B31",
 		"latlngarray": [
 			{"lat": -76.962, "lng": -28.355},
@@ -26,7 +26,7 @@
 		"title": "Terminal",
 		"notes": "Gang: No One",
 		"order": 0,
-		"strokecolor": "00000000",
+		"strokecolor": "4E5B31",
 		"fillcolor": "4E5B31",
 		"latlngarray": [
 			{"lat": -80.331, "lng": 5.081},
@@ -39,7 +39,7 @@
 		"title": "Cypress Flats",
 		"notes": "Gang: No One",
 		"order": 0,
-		"strokecolor": "00000000",
+		"strokecolor": "4E5B31",
 		"fillcolor": "4E5B31",
 		"latlngarray": [
 			{"lat": -73.949, "lng": 3.019},
@@ -56,7 +56,7 @@
 		"title": "El Burro Heights",
 		"notes": "Gang: No One",
 		"order": 0,
-		"strokecolor": "00000000",
+		"strokecolor": "4E5B31",
 		"fillcolor": "4E5B31",
 		"latlngarray": [
 			{"lat": -71.216, "lng": 17.418},
@@ -174,7 +174,7 @@
 		"title": "Murrieta Heights",
 		"notes": "Gang: No One",
 		"order": 0,
-		"strokecolor": "00000000",
+		"strokecolor": "4E5B31",
 		"fillcolor": "4E5B31",
 		"latlngarray": [
 			{"lat": -65.079, "lng": 10.917},
@@ -191,7 +191,7 @@
 		"title": "Mirror Park",
 		"notes": "Gang: No One",
 		"order": 0,
-		"strokecolor": "00000000",
+		"strokecolor": "4E5B31",
 		"fillcolor": "4E5B31",
 		"latlngarray": [
 			{"lat": -57.669, "lng": 10.272},
@@ -204,7 +204,7 @@
 		"title": "East Vinewood",
 		"notes": "Gang: No One",
 		"order": 0,
-		"strokecolor": "00000000",
+		"strokecolor": "4E5B31",
 		"fillcolor": "4E5B31",
 		"latlngarray": [
 			{"lat": -53.621, "lng": 5.168},
@@ -223,7 +223,7 @@
 		"title": "Downtown Vinewood",
 		"notes": "Gang: No One",
 		"order": 0,
-		"strokecolor": "00000000",
+		"strokecolor": "4E5B31",
 		"fillcolor": "4E5B31",
 		"latlngarray": [
 			{"lat": -44.544, "lng": -13.503},
@@ -236,7 +236,7 @@
 		"title": "West Vinewood",
 		"notes": "Gang: No One",
 		"order": 0,
-		"strokecolor": "00000000",
+		"strokecolor": "4E5B31",
 		"fillcolor": "4E5B31",
 		"latlngarray": [
 			{"lat": -44.544, "lng": -36.553},
@@ -368,7 +368,7 @@
 		"title": "Vinewood Hills",
 		"notes": "Gang: No One",
 		"order": 0,
-		"strokecolor": "00000000",
+		"strokecolor": "4E5B31",
 		"fillcolor": "4E5B31",
 		"latlngarray": [
 			{"lat": -24.322, "lng": -57.704},
@@ -428,7 +428,7 @@
 		"title": "Harmony",
 		"notes": "Gang: No One",
 		"order": 0,
-		"strokecolor": "00000000",
+		"strokecolor": "4E5B31",
 		"fillcolor": "4E5B31",
 		"latlngarray": [
 			{"lat": 17.381, "lng": -10.277},
@@ -441,7 +441,7 @@
 		"title": "Sandy Shores",
 		"notes": "Gang: No One",
 		"order": 0,
-		"strokecolor": "00000000",
+		"strokecolor": "4E5B31",
 		"fillcolor": "4E5B31",
 		"latlngarray": [
 			{"lat": 47.476, "lng": 55.025},
@@ -479,7 +479,7 @@
 		"title": "Grapeseed",
 		"notes": "Gang: No One",
 		"order": 0,
-		"strokecolor": "00000000",
+		"strokecolor": "4E5B31",
 		"fillcolor": "4E5B31",
 		"latlngarray": [
 			{"lat": 66.433, "lng": 31.612},
@@ -500,7 +500,7 @@
 		"title": "Chiliad Mountain State Wilderness",
 		"notes": "Gang: No One",
 		"order": 0,
-		"strokecolor": "00000000",
+		"strokecolor": "4E5B31",
 		"fillcolor": "4E5B31",
 		"latlngarray": [
 			{"lat": 67.153, "lng": -55.521},
@@ -525,7 +525,7 @@
 		"title": "Paleto Forest",
 		"notes": "Gang: No One",
 		"order": 0,
-		"strokecolor": "00000000",
+		"strokecolor": "4E5B31",
 		"fillcolor": "4E5B31",
 		"latlngarray": [
 			{"lat": 75.891, "lng": -44.515},
@@ -550,7 +550,7 @@
 		"title": "Paleto Bay",
 		"notes": "Gang: No One",
 		"order": 0,
-		"strokecolor": "00000000",
+		"strokecolor": "4E5B31",
 		"fillcolor": "4E5B31",
 		"latlngarray": [
 			{"lat": 80.844, "lng": -16.059},
@@ -633,7 +633,7 @@
 		"title": "Procopio Beach",
 		"notes": "Gang: No One",
 		"order": 0,
-		"strokecolor": "00000000",
+		"strokecolor": "4E5B31",
 		"fillcolor": "4E5B31",
 		"latlngarray": [
 			{"lat": 78.325, "lng": 2.943},
