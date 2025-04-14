@@ -35,46 +35,6 @@
 		}
 	},
 	{
-		"title": "Son Of Legacy (SOL)",
-		"notes": "Legacy",
-		"wiki_link": "https://youtu.be/g4d3gUZa1xw?si=y4s-aYwLmmJb7cwK",
-		"order": 0,
-		"strokecolor": "FF0000",
-		"fillcolor": "FF0000",
-		"latlngarray": [
-			{"lat": -48.407, "lng": -46.077},
-			{"lat": -48.436, "lng": -44.957},
-			{"lat": -48.458, "lng": -43.649},
-			{"lat": -48.472, "lng": -43.232},
-			{"lat": -48.538, "lng": -42.924},
-			{"lat": -48.719, "lng": -41.958},
-			{"lat": -48.799, "lng": -41.628},
-			{"lat": -49.167, "lng": -40.409},
-			{"lat": -49.203, "lng": -39.925},
-			{"lat": -50.497, "lng": -40.140},
-			{"lat": -51.467, "lng": -40.019},
-			{"lat": -51.508, "lng": -40.481},
-			{"lat": -51.522, "lng": -40.898},
-			{"lat": -51.454, "lng": -41.294},
-			{"lat": -51.392, "lng": -41.832},
-			{"lat": -51.344, "lng": -42.414},
-			{"lat": -51.364, "lng": -42.755},
-			{"lat": -51.447, "lng": -43.205},
-			{"lat": -51.618, "lng": -43.656},
-			{"lat": -50.875, "lng": -44.392},
-			{"lat": -50.408, "lng": -44.875},
-			{"lat": -49.972, "lng": -45.370},
-			{"lat": -49.560, "lng": -45.688},
-			{"lat": -49.174, "lng": -45.963},
-			{"lat": -48.857, "lng": -46.084}
-		],
-		"video": {
-			"yt_id": "g4d3gUZa1xw?si=V4qYZq1tFuHYQOja",
-			"yt_user_display": "Legacy Roleplay Nepal",
-			"yt_user_link": "c/legacyrpnepal"
-		}
-	},
-	{
 		"title": "Jhola Gang",
 		"notes": "Jhola Gang ",
 		"wiki_link": "https://youtu.be/g4d3gUZa1xw?si=y4s-aYwLmmJb7cwK",
