@@ -37,10 +37,10 @@
 	},
     {
 		"title": "Cypress Flats",
-		"notes": "Gang: No One",
+		"notes": "Gang: Ballas (ESB)",
 		"order": 0,
-		"strokecolor": "4E5B31",
-		"fillcolor": "4E5B31",
+		"strokecolor": "800080",
+		"fillcolor": "800080",
 		"latlngarray": [
 			{"lat": -73.949, "lng": 3.019},
 			{"lat": -73.949, "lng": 11.931},
@@ -189,10 +189,10 @@
 	},
     {
 		"title": "Mirror Park",
-		"notes": "Gang: No One",
+		"notes": "Gang: Jhola Gang",
 		"order": 0,
-		"strokecolor": "4E5B31",
-		"fillcolor": "4E5B31",
+		"strokecolor": "895129",
+		"fillcolor": "895129",
 		"latlngarray": [
 			{"lat": -57.669, "lng": 10.272},
 			{"lat": -57.669, "lng": 25.338},
@@ -498,10 +498,10 @@
 	},
     {
 		"title": "Chiliad Mountain State Wilderness",
-		"notes": "Gang: No One",
+		"notes": "Gang: The Lost MC",
 		"order": 0,
-		"strokecolor": "4E5B31",
-		"fillcolor": "4E5B31",
+		"strokecolor": "666362",
+		"fillcolor": "666362",
 		"latlngarray": [
 			{"lat": 67.153, "lng": -55.521},
 			{"lat": 67.153, "lng": -47.789},
