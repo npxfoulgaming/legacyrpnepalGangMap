@@ -477,10 +477,10 @@
 	},
     {
 		"title": "Grapeseed",
-		"notes": "Gang: No One",
+		"notes": "Gang: The Lost MC",
 		"order": 0,
-		"strokecolor": "4E5B31",
-		"fillcolor": "4E5B31",
+		"strokecolor": "666362",
+		"fillcolor": "666362",
 		"latlngarray": [
 			{"lat": 66.433, "lng": 31.612},
 			{"lat": 66.433, "lng": 57.589},
@@ -631,10 +631,10 @@
 	},
     {
 		"title": "Procopio Beach",
-		"notes": "Gang: No One",
+		"notes": "Gang: Jhola Gang",
 		"order": 0,
-		"strokecolor": "4E5B31",
-		"fillcolor": "4E5B31",
+		"strokecolor": "895129",
+		"fillcolor": "895129",
 		"latlngarray": [
 			{"lat": 78.325, "lng": 2.943},
 			{"lat": 78.325, "lng": 30.151},
