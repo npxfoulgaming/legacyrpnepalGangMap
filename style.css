@@ -270,7 +270,9 @@ body { height: 100%; margin: 0; padding: 0 }
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background-color: #808080; /* Gray background */
+	background: linear-gradient(135deg, #6e6e6e, #a9a9a9, #6e6e6e); /* Shiny gray */
+	background-size: 400% 400%;
+	animation: shimmerGray 6s ease infinite;
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -281,6 +283,12 @@ body { height: 100%; margin: 0; padding: 0 }
 #preloader.fade-out {
 	opacity: 0;
 	visibility: hidden;
+}
+
+@keyframes shimmerGray {
+	0% { background-position: 0% 50%; }
+	50% { background-position: 100% 50%; }
+	100% { background-position: 0% 50%; }
 }
 
 .loader-wrapper {
@@ -299,7 +307,7 @@ body { height: 100%; margin: 0; padding: 0 }
 	margin: 0 3px;
 	display: inline-block;
 	animation: waveRotateShake 2s infinite ease-in-out;
-	background: linear-gradient(90deg, red, green, blue);
+	background: linear-gradient(90deg, red, rgb(255, 255, 255), blue);
 	background-size: 300%;
 	background-clip: text;
 	-webkit-background-clip: text;
@@ -338,45 +346,46 @@ body { height: 100%; margin: 0; padding: 0 }
 
 @keyframes waveRotateShake {
 	0%, 100% {
-	transform: translateY(0) rotate(0deg) scale(1);
-	opacity: 0.8;
+		transform: translateY(0) rotate(0deg) scale(1);
+		opacity: 0.8;
 	}
 	25% {
-	transform: translateY(-8px) rotate(-5deg) scale(1.1);
+		transform: translateY(-8px) rotate(-5deg) scale(1.1);
 	}
 	50% {
-	transform: translateY(0px) rotate(5deg) scale(0.95);
+		transform: translateY(0px) rotate(5deg) scale(0.95);
 	}
 	75% {
-	transform: translateY(5px) rotate(-2deg) scale(1.05);
+		transform: translateY(5px) rotate(-2deg) scale(1.05);
 	}
 }
 
+/* Loader Description with Nepal Flag Colors */
 .loader-description {
-font-family: 'Poppins', sans-serif;
-font-size: 1.2rem;
-font-weight: 600;
-background: linear-gradient(90deg, red, green, blue);
-background-size: 300% 300%;
-background-clip: text;
--webkit-background-clip: text;
-color: transparent;
-margin-top: 20px;
-animation: floatGlow 4s ease-in-out infinite, gradientShift 6s ease infinite;
+	font-family: 'Poppins', sans-serif;
+	font-size: 1.2rem;
+	font-weight: 600;
+	background: linear-gradient(90deg, #DC143C, #003893, #DC143C); /* Nepal flag colors */
+	background-size: 300% 300%;
+	background-clip: text;
+	-webkit-background-clip: text;
+	color: transparent;
+	margin-top: 20px;
+	animation: floatGlow 4s ease-in-out infinite, nepalShift 6s ease infinite;
 }
 
-/* Background gradient movement */
-@keyframes gradientShift {
-0% { background-position: 0% 50%; }
-50% { background-position: 100% 50%; }
-100% { background-position: 0% 50%; }
+/* Gradient animation for description */
+@keyframes nepalShift {
+	0% { background-position: 0% 50%; }
+	50% { background-position: 100% 50%; }
+	100% { background-position: 0% 50%; }
 }
 
-/* Floating + scale + rotation animation */
+/* Floating glow animation */
 @keyframes floatGlow {
-0%   { transform: translateY(0px) scale(1) rotate(0deg); opacity: 0.95; }
-25%  { transform: translateY(-5px) scale(1.05) rotate(-2deg); opacity: 1; }
-50%  { transform: translateY(0px) scale(0.97) rotate(2deg); opacity: 0.9; }
-75%  { transform: translateY(5px) scale(1.03) rotate(-1deg); opacity: 1; }
-100% { transform: translateY(0px) scale(1) rotate(0deg); opacity: 0.95; }
+	0%   { transform: translateY(0px) scale(1) rotate(0deg); opacity: 0.95; }
+	25%  { transform: translateY(-5px) scale(1.05) rotate(-2deg); opacity: 1; }
+	50%  { transform: translateY(0px) scale(0.97) rotate(2deg); opacity: 0.9; }
+	75%  { transform: translateY(5px) scale(1.03) rotate(-1deg); opacity: 1; }
+	100% { transform: translateY(0px) scale(1) rotate(0deg); opacity: 0.95; }
 }
