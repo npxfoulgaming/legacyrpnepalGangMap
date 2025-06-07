@@ -47,4 +47,4 @@ This project is licensed under the [WTFPL](LICENSE).
 
 ---
 
-***Maintained by [FouLGaming](https://npxfoulgaming.github.io/foulgaming/) for Legacy Roleplay Nepal***
+***Maintained by [FouL Gaming](https://npxfoulgaming.github.io/foulgaming/) for Legacy Roleplay Nepal***
