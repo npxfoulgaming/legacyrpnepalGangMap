@@ -106,12 +106,12 @@
 		}
 	},
 	{
-		"title": "The Lost MC (TLMC)",
-		"notes": "Bike on my Blood",
+		"title": "Black Mafia",
+		"notes": "Ride on my Blood",
 		"wiki_link": "https://youtu.be/g4d3gUZa1xw?si=y4s-aYwLmmJb7cwK",
 		"order": 0,
-		"strokecolor": "666362",
-		"fillcolor": "666362",
+		"strokecolor": "000000",
+		"fillcolor": "000000",
 		"latlngarray": [
 			{"lat": 43.567, "lng": -17.457},
 			{"lat": 43.567, "lng": -7.794},
