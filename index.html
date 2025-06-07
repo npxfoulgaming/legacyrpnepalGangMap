@@ -126,8 +126,51 @@
 		</div>
 	</script>
 
+  <script>
+    window.addEventListener('load', () => {
+      const preloader = document.getElementById('preloader');
+      setTimeout(() => {
+        preloader.classList.add('fade-out');
+        setTimeout(() => {
+          preloader.remove();
+        }, 800);
+      }, 1000);
+    });
+  </script>
+
 	<div id="typeDetails" class="types"></div>
 
 	<div id="types" class="types"></div>
+
+  <!-- Preloader -->
+  <div id="preloader">
+    <div class="loader-wrapper">
+      <div class="loader-name">
+        <!-- You can adjust or shorten this to fewer letters if needed -->
+        <span data-text="L">L</span>
+        <span data-text="E">E</span>
+        <span data-text="G">G</span>
+        <span data-text="A">A</span>
+        <span data-text="C">C</span>
+        <span data-text="Y">Y</span>
+        <span data-text="R">R</span>
+        <span data-text="O">O</span>
+        <span data-text="L">L</span>
+        <span data-text="L">L</span>
+        <span data-text="E">E</span>
+        <span data-text="P">P</span>
+        <span data-text="L">L</span>
+        <span data-text="A">A</span>
+        <span data-text="Y">Y</span>
+        <span data-text="N">N</span>
+        <span data-text="E">E</span>
+        <span data-text="P">P</span>
+        <span data-text="A">A</span>
+        <span data-text="L">L</span>
+      </div>
+      <div class="loader-description">Gang Zone & Turf Map</div>
+    </div>
+  </div>
+
 </body>
 </html>
