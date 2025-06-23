@@ -128,6 +128,41 @@
 			"yt_user_display": "Legacy Roleplay Nepal",
 			"yt_user_link": "c/legacyrpnepal"
 		}
+	},
+		{
+		"title": "GSF",
+		"notes": "Families For A Reason",
+		"wiki_link": "https://youtu.be/g4d3gUZa1xw?si=y4s-aYwLmmJb7cwK",
+		"order": 0,
+		"strokecolor": "00FF00",
+		"fillcolor": "00FF00",
+		"latlngarray": [
+			{"lat": -71.493, "lng": -17.736},
+			{"lat": -71.646, "lng": -17.593},
+			{"lat": -71.749, "lng": -17.395},
+			{"lat": -71.842, "lng": -17.197},
+			{"lat": -71.982, "lng": -16.692},
+			{"lat": -71.948, "lng": -14.813},
+			{"lat": -71.825, "lng": -14.132},
+			{"lat": -71.503, "lng": -13.132},
+			{"lat": -71.405, "lng": -13.473},
+			{"lat": -71.426, "lng": -13.956},
+			{"lat": -71.426, "lng": -14.253},
+			{"lat": -71.423, "lng": -14.637},
+			{"lat": -71.426, "lng": -14.824},
+			{"lat": -71.451, "lng": -15.297},
+			{"lat": -71.472, "lng": -15.593},
+			{"lat": -71.479, "lng": -15.890},
+			{"lat": -71.489, "lng": -16.296},
+			{"lat": -71.489, "lng": -16.626},
+			{"lat": -71.496, "lng": -16.780},
+			{"lat": -71.489, "lng": -17.208}
+		],
+		"video": {
+			"yt_id": "g4d3gUZa1xw?si=V4qYZq1tFuHYQOja",
+			"yt_user_display": "Legacy Roleplay Nepal",
+			"yt_user_link": "c/legacyrpnepal"
+		}
 	}
 ]
 
