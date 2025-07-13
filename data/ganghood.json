@@ -106,22 +106,21 @@
 		}
 	},
 	{
-		"title": "Black Mafia",
-		"notes": "Ride on my Blood",
+		"title": "Yakuza",
+		"notes": "Yakuza Japanese Gang",
 		"wiki_link": "https://youtu.be/g4d3gUZa1xw?si=y4s-aYwLmmJb7cwK",
 		"order": 0,
 		"strokecolor": "000000",
-		"fillcolor": "000000",
+		"fillcolor": "FFFFFF",
 		"latlngarray": [
-			{"lat": -31.629, "lng": -23.876},
-			{"lat": -38.320, "lng": -16.801},
-			{"lat": -38.801, "lng": -15.175},
-			{"lat": -38.078, "lng": -14.076},
-			{"lat": -35.973, "lng": -14.560},
-			{"lat": -34.320, "lng": -13.725},
-			{"lat": -30.840, "lng": -15.746},
-			{"lat": -30.916, "lng": -19.789},
-			{"lat": -30.652, "lng": -22.338}
+			{"lat": -60.557, "lng": 22.535},
+			{"lat": -61.405, "lng": 27.073},
+			{"lat": -63.028, "lng": 25.623},
+			{"lat": -62.217, "lng": 22.070},
+			{"lat": -62.001, "lng": 21.948},
+			{"lat": -61.700, "lng": 21.937},
+			{"lat": -61.354, "lng": 22.003},
+			{"lat": -60.952, "lng": 22.256}
 		],
 		"video": {
 			"yt_id": "g4d3gUZa1xw?si=V4qYZq1tFuHYQOja",
@@ -129,7 +128,7 @@
 			"yt_user_link": "c/legacyrpnepal"
 		}
 	},
-		{
+	{
 		"title": "GSF",
 		"notes": "Families For A Reason",
 		"wiki_link": "https://youtu.be/g4d3gUZa1xw?si=y4s-aYwLmmJb7cwK",
