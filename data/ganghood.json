@@ -35,12 +35,12 @@
 		}
 	},
 	{
-		"title": "Jhola Gang",
-		"notes": "Jhola Gang ",
+		"title": "Cali Cartel",
+		"notes": "Cali Cartel",
 		"wiki_link": "https://youtu.be/g4d3gUZa1xw?si=y4s-aYwLmmJb7cwK",
 		"order": 0,
-		"strokecolor": "895129",
-		"fillcolor": "895129",
+		"strokecolor": "3208DF",
+		"fillcolor": "3208DF",
 		"latlngarray": [
 			{"lat": -45.900, "lng": -18.615},
 			{"lat": -45.961, "lng": -18.714},
@@ -110,7 +110,7 @@
 		"notes": "Yakuza Japanese Gang",
 		"wiki_link": "https://youtu.be/g4d3gUZa1xw?si=y4s-aYwLmmJb7cwK",
 		"order": 0,
-		"strokecolor": "000000",
+		"strokecolor": "FFFFFF",
 		"fillcolor": "FFFFFF",
 		"latlngarray": [
 			{"lat": -60.557, "lng": 22.535},
