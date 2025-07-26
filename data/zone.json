@@ -1,10 +1,10 @@
 [
     {
 		"title": "Elysian Island",
-		"notes": "Gang: Unclaimed",
+		"notes": "Gang: Son Of Legacy (SOL)",
 		"order": 0,
-		"strokecolor": "808080",
-		"fillcolor": "808080",
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
 		"latlngarray": [
 			{"lat": -76.962, "lng": -28.355},
 			{"lat": -76.962, "lng": -22.957},
@@ -24,10 +24,10 @@
 	},
     {
 		"title": "Terminal",
-		"notes": "Gang: Ballas (ESB)",
+		"notes": "Gang: GSF",
 		"order": 0,
-		"strokecolor": "800080",
-		"fillcolor": "800080",
+		"strokecolor": "00FF00",
+		"fillcolor": "00FF00",
 		"latlngarray": [
 			{"lat": -80.331, "lng": 5.081},
 			{"lat": -80.331, "lng": 24.856},
@@ -54,10 +54,10 @@
 	},
     {
 		"title": "El Burro Heights",
-		"notes": "Gang: Unclaimed",
+		"notes": "Gang: Yakuza",
 		"order": 0,
-		"strokecolor": "808080",
-		"fillcolor": "808080",
+		"strokecolor": "FFFFFF",
+		"fillcolor": "FFFFFF",
 		"latlngarray": [
 			{"lat": -71.216, "lng": 17.418},
 			{"lat": -71.216, "lng": 28.121},
@@ -77,10 +77,10 @@
 	},
     {
 		"title": "Rancho",
-		"notes": "Gang: Unclaimed",
+		"notes": "Gang: Ballas (ESB)",
 		"order": 0,
-		"strokecolor": "808080",
-		"fillcolor": "808080",
+		"strokecolor": "800080",
+		"fillcolor": "800080",
 		"latlngarray": [
 			{"lat": -71.551, "lng": -4.542},
 			{"lat": -71.551, "lng": -0.351},
@@ -100,10 +100,10 @@
 	},
     {
 		"title": "Davis",
-		"notes": "Gang: Yakuza",
+		"notes": "Gang: Son Of Legacy (SOL)",
 		"order": 0,
-		"strokecolor": "FFFFFF",
-		"fillcolor": "FFFFFF",
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
 		"latlngarray": [
 			{"lat": -71.551, "lng": -12.272},
 			{"lat": -71.551, "lng": -4.542},
@@ -121,10 +121,10 @@
 	},
     {
 		"title": "Strawberry",
-		"notes": "Gang: Ballas (ESB)",
+		"notes": "Gang: Yakuza",
 		"order": 0,
-		"strokecolor": "800080",
-		"fillcolor": "800080",
+		"strokecolor": "FFFFFF",
+		"fillcolor": "FFFFFF",
 		"latlngarray": [
 			{"lat": -68.915, "lng": -26.659},
 			{"lat": -68.915, "lng": -0.351},
@@ -138,10 +138,10 @@
 	},
     {
 		"title": "Pillbox Hill",
-		"notes": "Gang: Yakuza",
+		"notes": "Gang: Son Of Legacy (SOL)",
 		"order": 0,
-		"strokecolor": "FFFFFF",
-		"fillcolor": "FFFFFF",
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
 		"latlngarray": [
 			{"lat": -63.921, "lng": -25.245},
 			{"lat": -63.921, "lng": -22.826},
@@ -234,10 +234,10 @@
 	},
     {
 		"title": "West Vinewood",
-		"notes": "Gang: Unclaimed",
+		"notes": "Gang: GSF",
 		"order": 0,
-		"strokecolor": "808080",
-		"fillcolor": "808080",
+		"strokecolor": "00FF00",
+		"fillcolor": "00FF00",
 		"latlngarray": [
 			{"lat": -44.544, "lng": -36.553},
 			{"lat": -44.544, "lng": -13.503},
@@ -278,10 +278,10 @@
 	},
     {
 		"title": "Vespucci Canals",
-		"notes": "Gang: GSF",
+		"notes": "Gang: Son Of Legacy (SOL)",
 		"order": 0,
-		"strokecolor": "00FF00",
-		"fillcolor": "00FF00",
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
 		"latlngarray": [
 			{"lat": -63.832, "lng": -48.911},
 			{"lat": -63.832, "lng": -41.994},
@@ -580,10 +580,10 @@
 	},
     {
 		"title": "Hawick Avenue",
-		"notes": "Gang: Unclaimed",
+		"notes": "Gang: Ballas (ESB)",
 		"order": 0,
-		"strokecolor": "808080",
-		"fillcolor": "808080",
+		"strokecolor": "800080",
+		"fillcolor": "800080",
 		"latlngarray": [
 			{"lat": -53.373, "lng": -16.248},
 			{"lat": -53.373, "lng": 5.168},
@@ -613,11 +613,11 @@
 		]
 	},
 	{
-		"title": "29. Eclipse Boulevard",
-		"notes": "Gang: Unclaimed",
+		"title": "Eclipse Boulevard",
+		"notes": "Gang: Ballas (ESB)",
 		"order": 0,
-		"strokecolor": "808080",
-		"fillcolor": "808080",
+		"strokecolor": "800080",
+		"fillcolor": "800080",
 		"latlngarray": [
 			{"lat": -55.704, "lng": -60.280},
 			{"lat": -54.808, "lng": -61.445},
@@ -717,10 +717,10 @@
 	},
     {
 		"title": "Procopio Beach",
-		"notes": "Gang: Unclaimed",
+		"notes": "Gang: Cali Cartel",
 		"order": 0,
-		"strokecolor": "808080",
-		"fillcolor": "808080",
+		"strokecolor": "3208DF",
+		"fillcolor": "3208DF",
 		"latlngarray": [
 			{"lat": 78.325, "lng": 2.943},
 			{"lat": 78.325, "lng": 30.151},
@@ -731,7 +731,7 @@
 		]
 	},
 	{
-		"title": "30. Forum Drive",
+		"title": "Forum Drive",
 		"notes": "Gang: GSF",
 		"order": 0,
 		"strokecolor": "00FF00",
@@ -744,12 +744,11 @@
 		]
 	},
 	{
-		"title": "32. Little Seoul",
-		"notes": "Gang: Unclaimed",
-		"wiki_link": "",
+		"title": "Little Seoul",
+		"notes": "Gang: Cali Cartel",
 		"order": 0,
-		"strokecolor": "808080",
-		"fillcolor": "808080",
+		"strokecolor": "3208DF",
+		"fillcolor": "3208DF",
 		"latlngarray": [
 			{"lat": -63.177, "lng": -39.734},
 			{"lat": -63.216, "lng": -27.639},
