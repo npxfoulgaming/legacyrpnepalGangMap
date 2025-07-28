@@ -24,10 +24,10 @@
 	},
     {
 		"title": "Terminal",
-		"notes": "Gang: GSF",
+		"notes": "Gang: Black Mafia",
 		"order": 0,
-		"strokecolor": "00FF00",
-		"fillcolor": "00FF00",
+		"strokecolor": "000000",
+		"fillcolor": "000000",
 		"latlngarray": [
 			{"lat": -80.331, "lng": 5.081},
 			{"lat": -80.331, "lng": 24.856},
@@ -234,10 +234,10 @@
 	},
     {
 		"title": "West Vinewood",
-		"notes": "Gang: GSF",
+		"notes": "Gang: Black Mafia",
 		"order": 0,
-		"strokecolor": "00FF00",
-		"fillcolor": "00FF00",
+		"strokecolor": "000000",
+		"fillcolor": "000000",
 		"latlngarray": [
 			{"lat": -44.544, "lng": -36.553},
 			{"lat": -44.544, "lng": -13.503},
@@ -732,10 +732,10 @@
 	},
 	{
 		"title": "Forum Drive",
-		"notes": "Gang: GSF",
+		"notes": "Gang: Black Mafia",
 		"order": 0,
-		"strokecolor": "00FF00",
-		"fillcolor": "00FF00",
+		"strokecolor": "000000",
+		"fillcolor": "000000",
 		"latlngarray": [
 			{"lat": -71.551, "lng": -26.666},
 			{"lat": -71.551, "lng": -16.757},
