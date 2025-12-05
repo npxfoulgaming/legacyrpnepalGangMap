@@ -1,176 +1,239 @@
 <!doctype html>
 <html lang="en">
 <head>
-	<meta charset="utf-8">
-	<title>Legacy Roleplay Nepal Gang Map</title>
-	<link rel="icon" href="icons/legacyrpnp.png"/>
+  <meta charset="utf-8">
+  <title>Legacy Roleplay Nepal Gang Map</title>
+  <link rel="icon" href="icons/legacyrpnp.png"/>
 
-	<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-	<link rel="stylesheet" href="fontawesome/css/font-awesome.css">
-	<link rel="stylesheet" href="style.css">
+  <!-- Bootstrap & FontAwesome -->
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="fontawesome/css/font-awesome.css">
 
-	<script src="js/libs/jquery-min.js"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
-	<script src="js/libs/underscore-min.js"></script>
-	<script src="js/libs/backbone-min.js"></script>
-	<script src="js/libs/handlebars.js"></script>
-	<script src="//maps.googleapis.com/maps/api/js?v=3.exp&key="></script>
-	<script src="js/libs/maplabel-compiled.js"></script>
-	<script src="js/app.js"></script>
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
 
-	<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="style.css">
+
+  <!-- JS Libraries -->
+  <script src="js/libs/jquery-min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+  <script src="js/libs/underscore-min.js"></script>
+  <script src="js/libs/backbone-min.js"></script>
+  <script src="js/libs/handlebars.js"></script>
+  <script src="//maps.googleapis.com/maps/api/js?v=3.exp&key="></script>
+  <script src="js/libs/maplabel-compiled.js"></script>
+  <script src="js/app.js"></script>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+
+  <style>
+    /* ===== General Styles ===== */
+    body, html { margin:0; padding:0; font-family: 'Roboto', sans-serif; height:100%; }
+    a { text-decoration:none; }
+
+    /* ===== Header ===== */
+    header {
+      background: linear-gradient(90deg, #1e3c72, #2a5298);
+      color: #fff;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 10px 20px;
+      position: sticky;
+      top: 0;
+      z-index: 1000;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+    }
+    header .left a { color: #fff; font-weight: bold; font-size:1.2em; }
+    header .right button, header .right a { margin-right: 8px; transition: transform 0.2s; }
+    header .right button:hover, header .right a:hover { transform: scale(1.05); }
+
+    /* ===== Map ===== */
+    #map { height: calc(100vh - 60px); width: 100%; }
+
+    /* ===== Floating Action Buttons ===== */
+    .fab {
+      position: fixed;
+      bottom: 30px;
+      right: 30px;
+      background: #ff5722;
+      color: #fff;
+      width: 60px;
+      height: 60px;
+      border-radius: 50%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-size: 24px;
+      cursor: pointer;
+      box-shadow: 0 6px 15px rgba(0,0,0,0.3);
+      transition: transform 0.3s, background 0.3s;
+      z-index: 1000;
+    }
+    .fab:hover { transform: scale(1.1); background: #e64a19; }
+
+    /* ===== Preloader ===== */
+    #preloader {
+      position: fixed;
+      top:0; left:0;
+      width:100%; height:100%;
+      background:#1e3c72;
+      display:flex;
+      justify-content:center;
+      align-items:center;
+      flex-direction: column;
+      color: #fff;
+      font-weight: bold;
+      font-size:1.2em;
+      z-index: 2000;
+    }
+    #preloader.fade-out { opacity:0; transition: opacity 0.8s ease; }
+
+    /* ===== Map Cards ===== */
+    .map-card {
+      background: rgba(255,255,255,0.95);
+      border-radius: 12px;
+      box-shadow: 0 6px 20px rgba(0,0,0,0.3);
+      padding: 15px;
+      margin-bottom: 10px;
+      transition: transform 0.3s, box-shadow 0.3s;
+    }
+    .map-card:hover { transform: translateY(-5px); box-shadow: 0 10px 30px rgba(0,0,0,0.4); }
+    .map-card h4 { font-weight: 700; margin-bottom: 8px; }
+    .map-card img { max-width: 100%; border-radius: 8px; margin-top: 5px; }
+
+    /* ===== Marker Popup Scrollable ===== */
+    #info-window .scrollable { max-height: 300px; overflow-y: auto; }
+    #info-window h3 { font-size:1.2em; margin-bottom:5px; }
+    #info-window p.notes { font-size:0.9em; color:#333; margin-bottom:5px; }
+    .youtubewrapper { position: relative; padding-bottom: 56.25%; height:0; overflow:hidden; }
+    .youtubewrapper iframe { position:absolute; top:0; left:0; width:100%; height:100%; }
+
+    /* ===== Dropdown Fix for Bootstrap ===== */
+    .dropdown-menu a { cursor: pointer; }
+  </style>
 </head>
 <body>
-	<header>
-		<p class="left" style="padding-top: 5px;">
-			<a href="">Legacy Roleplay Nepal</a>
-		</p>
-		<ul class="right">
-			<div class="dropdown">
-				<a href="https://npxfoulgaming.github.io/legacyrpnepalGangProgression/" target="_blank"><button class="btn btn-primary">Gangs Progression Info</button></a>
-				<a href="https://discord.gg/KEGy5276sj" target="_blank"><button class="btn btn-primary">Gang Roster</button></a>
-				<a href="https://docs.google.com/document/d/1oet7efkKa_Nn9jZTSHULn7AReMtb6EMCKUj5G9CPinI/edit?usp=sharing" target="_blank"><button class="btn btn-primary">Gang Rules</button></a>
-				<a href="https://npxfoulgaming.github.io/foulgaming/" target="_blank"><button class="btn btn-primary">FouL Gaming</button></a>
-				<button class="btn btn-primary" id="toggleruler" onclick="toggleRuler();$(this).css('display', 'none');">Add Distance Ruler</button>
-				<button class="btn btn-primary" id="createzone" onclick="printArray()">Add New Region</button>
-				<button class="btn btn-secondary dropdown-toggle" type="button" id="ddmenu" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-					Select Map Type
-				</button>
-				<div class="dropdown-menu" aria-labelledby="ddmenu">
-					<a href="#" id="Atlas"           class="dropdown-item active" onclick="$('#' + map.getMapTypeId()).removeClass('active'); map.setMapTypeId('Atlas');           $(this).addClass('active');">Atlas</a>
-					<a href="#" id="Satellite"       class="dropdown-item"        onclick="$('#' + map.getMapTypeId()).removeClass('active'); map.setMapTypeId('Satellite');       $(this).addClass('active');">Satellite</a>
-					<a href="#" id="Road"            class="dropdown-item"        onclick="$('#' + map.getMapTypeId()).removeClass('active'); map.setMapTypeId('Road');            $(this).addClass('active');">Road</a>
-				</div>
-			</div>
 
-		</ul>
-	</header>
+  <!-- ===== Header ===== -->
+  <header>
+    <p class="left"><a href="#">Legacy Roleplay Nepal</a></p>
+    <div class="right">
+      <a href="https://legacyrpnepalgangs.vercel.app/" target="_blank" class="btn btn-primary">Gangs Web</a>
+      <a href="https://docs.google.com/document/d/1oet7efkKa_Nn9jZTSHULn7AReMtb6EMCKUj5G9CPinI/edit?usp=sharing" target="_blank" class="btn btn-primary">Gang Rules</a>
+      <button class="btn btn-primary" id="toggleruler" onclick="toggleRuler();$(this).hide();">Add Distance Ruler</button>
+      <button class="btn btn-primary" id="createzone" onclick="printArray()">Add New Region</button>
+      <div class="dropdown d-inline">
+        <button class="btn btn-secondary dropdown-toggle" type="button" id="ddmenu" data-toggle="dropdown">Select Map Type</button>
+        <div class="dropdown-menu" aria-labelledby="ddmenu">
+          <a class="dropdown-item" onclick="map.setMapTypeId('Atlas')">Atlas</a>
+          <a class="dropdown-item" onclick="map.setMapTypeId('Satellite')">Satellite</a>
+          <a class="dropdown-item" onclick="map.setMapTypeId('Road')">Road</a>
+        </div>
+      </div>
+    </div>
+  </header>
 
-	<div id="map" style="background:rgb(43, 164, 210);"></div>
+  <!-- ===== Map Container ===== -->
+  <div id="map" style="background:rgb(43, 164, 210);"></div>
 
-	<script type="x/template" id="sectionTemplate">
-		{{#each sections as | section |}}
-			<section class="type">
-				<h3>{{name}}</h3>
-				<ul>
-					{{#each categories}}
-						<li><label><input type="checkbox" {{#if enabled}}checked{{/if}} value="{{name}}" data-section="{{section.name}}"> <img src="icons/{{icon}}"> {{name}}</label> <a href="#" class="details" data-section="{{section.name}}" data-name="{{name}}"><i class="icon-chevron-sign-right"></i></a></li>
-					{{/each}}					
-					{{#ifEquals name "General"}}
-						<li><label><input type="checkbox" {{#if enabled}}checked{{/if}} value="labels"> <img src="icons/General/wall-breach.png"> Labels</label> <a href="#" class="details" data-name="Labels"></a></li>
-					{{/ifEquals}}
+  <!-- ===== Floating Action Button ===== -->
+  <div class="fab" onclick="alert('Feature coming soon!')"><i class="fa fa-plus"></i></div>
 
-				</ul>
-			</section>
-		{{/each}}
-	</script>
-
-	<script type="x/template" id="categoryDetailsTemplate">
-		<section class="type">
-			<h3><a href="#" class="back details"><i class="icon-chevron-sign-left"></i></a> {{category}}</h3>
-			<ul class="listview">
-				{{#with this as | root |}}
-				{{#each locations}}
-					<li data-section="{{root.section}}" data-name="{{root.category}}"><div style="height:20px;width:20px;background-color:#{{fillcolor}};border: 3px solid #{{strokecolor}}; display:inline-block;margin-right:10px;"></div><label>{{title}}</label></li>
-				{{/each}}
-				{{/with}}
-			</ul>
-		</section>
-	</script>
-
-	<script type="x/template" id="markerPopupTemplate2">
-		<div id="info-window" style="max-width:420px;">
-			<div class="scrollable">
-				<span class="header">
-					<h3>{{title}}</h3>
-				</span>
-				<div id="info-body">
-					{{#if notes}}
-						<br>
-						<p class="notes">{{notes}}</p>
-					{{/if}}
-					{{#if video}}
-						<div class="video-{{id}}">
-							<br>
-							<h4>Video</h4>
-							<div class="youtubewrapper">
-								<iframe width="100%" src="//www.youtube.com/embed/{{video.yt_id}}?theme=light&amp;autoplay=0&amp;autohide=1&amp;iv_load_policy=3&amp;rel=0&amp;showinfo=0&amp;loop=1{{#if video.start}}&amp;start={{timestampToSeconds video.start}}{{/if}}{{#if video.end}}&amp;end={{timestampToSeconds video.end}}{{/if}}" frameborder="0" allowfullscreen></iframe>
-							</div>
-							{{#if video.yt_user_link}}
-								<p>
-									<a href="//www.youtube.com/{{video.yt_user_link}}" style="color:#222;font-size:.8em;float:right;" target="_blank">
-										Video by {{video.yt_user_display}}
-									</a>
-								</p>
-							{{/if}}
-						</div>
-					{{/if}}
-					{{#if images}}
-						<br>
-				 		<h4>Images</h4>
-					{{/if}}
-					{{#each images}}
-						<div class="image-{{id}}">
-						 	<span>{{headline}}</span>
-						 	<img src="{{url}}" class="image-{{id}}">
-						</div>
-						<br>
-				 	{{/each}}
-					{{#if wiki_link}}
-						<hr>
-						<a target="_blank" href="{{wiki_link}}">See {{title}} on the Legacy Roleplay Nepal yt Channel</a>
-					{{/if}}
-				</div>
-			</div>
-		</div>
-	</script>
-
-  <script>
-    window.addEventListener('load', () => {
-      const preloader = document.getElementById('preloader');
-      setTimeout(() => {
-        preloader.classList.add('fade-out');
-        setTimeout(() => {
-          preloader.remove();
-        }, 800);
-      }, 1000);
-    });
-  </script>
-
-	<div id="typeDetails" class="types"></div>
-
-	<div id="types" class="types"></div>
-
-  <!-- Preloader -->
+  <!-- ===== Preloader ===== -->
   <div id="preloader">
     <div class="loader-wrapper">
       <div class="loader-name">
-        <!-- You can adjust or shorten this to fewer letters if needed -->
-        <span data-text="L">L</span>
-        <span data-text="E">E</span>
-        <span data-text="G">G</span>
-        <span data-text="A">A</span>
-        <span data-text="C">C</span>
-        <span data-text="Y">Y</span>
-        <span data-text="R">R</span>
-        <span data-text="O">O</span>
-        <span data-text="L">L</span>
-        <span data-text="L">L</span>
-        <span data-text="E">E</span>
-        <span data-text="P">P</span>
-        <span data-text="L">L</span>
-        <span data-text="A">A</span>
-        <span data-text="Y">Y</span>
-        <span data-text="N">N</span>
-        <span data-text="E">E</span>
-        <span data-text="P">P</span>
-        <span data-text="A">A</span>
-        <span data-text="L">L</span>
+        LEGACY ROLEPLAY NEPAL
       </div>
       <div class="loader-description">Gang Zone & Turf Map</div>
     </div>
   </div>
+
+  <!-- ===== Handlebars Templates ===== -->
+  <script type="x/template" id="sectionTemplate">
+    {{#each sections as | section |}}
+      <section class="type">
+        <h3>{{name}}</h3>
+        <ul>
+          {{#each categories}}
+            <li><label><input type="checkbox" {{#if enabled}}checked{{/if}} value="{{name}}" data-section="{{section.name}}"> <img src="icons/{{icon}}"> {{name}}</label> <a href="#" class="details" data-section="{{section.name}}" data-name="{{name}}"><i class="icon-chevron-sign-right"></i></a></li>
+          {{/each}}					
+          {{#ifEquals name "General"}}
+            <li><label><input type="checkbox" {{#if enabled}}checked{{/if}} value="labels"> <img src="icons/General/wall-breach.png"> Labels</label> <a href="#" class="details" data-name="Labels"></a></li>
+          {{/ifEquals}}
+        </ul>
+      </section>
+    {{/each}}
+  </script>
+
+  <script type="x/template" id="categoryDetailsTemplate">
+    <section class="type">
+      <h3><a href="#" class="back details"><i class="icon-chevron-sign-left"></i></a> {{category}}</h3>
+      <ul class="listview">
+        {{#with this as | root |}}
+        {{#each locations}}
+          <li data-section="{{root.section}}" data-name="{{root.category}}">
+            <div style="height:20px;width:20px;background-color:#{{fillcolor}};border: 3px solid #{{strokecolor}}; display:inline-block;margin-right:10px;"></div>
+            <label>{{title}}</label>
+          </li>
+        {{/each}}
+        {{/with}}
+      </ul>
+    </section>
+  </script>
+
+  <script type="x/template" id="markerPopupTemplate2">
+    <div id="info-window" style="max-width:420px;">
+      <div class="scrollable">
+        <span class="header">
+          <h3>{{title}}</h3>
+        </span>
+        <div id="info-body">
+          {{#if notes}}
+            <p class="notes">{{notes}}</p>
+          {{/if}}
+          {{#if video}}
+            <div class="video-{{id}}">
+              <h4>Video</h4>
+              <div class="youtubewrapper">
+                <iframe width="100%" src="//www.youtube.com/embed/{{video.yt_id}}?theme=light&amp;autoplay=0&amp;autohide=1" frameborder="0" allowfullscreen></iframe>
+              </div>
+              {{#if video.yt_user_link}}
+                <p><a href="//www.youtube.com/{{video.yt_user_link}}" target="_blank">Video by {{video.yt_user_display}}</a></p>
+              {{/if}}
+            </div>
+          {{/if}}
+          {{#if images}}
+            <h4>Images</h4>
+            {{#each images}}
+              <div class="image-{{id}}">
+                <span>{{headline}}</span>
+                <img src="{{url}}" class="image-{{id}}">
+              </div>
+            {{/each}}
+          {{/if}}
+          {{#if wiki_link}}
+            <hr>
+            <a target="_blank" href="{{wiki_link}}">See {{title}} on the Legacy Roleplay Nepal yt Channel</a>
+          {{/if}}
+        </div>
+      </div>
+    </div>
+  </script>
+
+  <script>
+    // ===== Preloader fade out =====
+    window.addEventListener('load', () => {
+      const preloader = document.getElementById('preloader');
+      setTimeout(() => {
+        preloader.classList.add('fade-out');
+        setTimeout(() => preloader.remove(), 800);
+      }, 1000);
+    });
+  </script>
 
 </body>
 </html>
